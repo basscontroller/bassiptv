@@ -1,0 +1,820 @@
+#EXTM3U
+
+#EXTINF:-1,UPDATED LIST FOR 02/10/2015
+http://bit.do/bmHTuhttp://bit.do/bmHTu
+
+#EXTINF:-1, 4 Seven
+http://bit.do/bmHTu
+
+#EXTINF:-1, 5 USA
+http://bit.do/bmHTK
+
+#EXTINF:-1, Alibi
+http://bit.do/bmHT7
+
+#EXTINF:-1, H2 USA
+http://bit.do/bmHUA
+
+#EXTINF:-1, Challenge
+http://bit.do/bmHUo
+
+#EXTINF:-1, Gold
+http://bit.do/bmHUx
+
+#EXTINF:-1, Multimedios Plus
+http://bit.do/bmHUD
+
+
+#EXTINF:-1, NBC Miami
+http://bit.do/bmHUN
+
+#EXTINF:-1, Pick
+http://bit.do/bmHUS
+
+#EXTINF:-1, RTE ONE
+http://bit.do/bmHUW
+
+#EXTINF:-1, RTE TWO
+http://bit.do/bmHUZ
+
+#EXTINF:-1, Watch
+http://bit.do/bmHU9
+
+#EXTINF:-1, Tooncast
+http://bit.do/bmHTm
+
+#EXTINF:-1, Teen Nick
+http://bit.do/bmHTg
+
+#EXTINF:-1, 5 Star
+http://bit.do/bmHTC
+
+#EXTINF:-1, NICKELODEON
+http://bit.do/bmHS2
+
+#EXTINF:-1, CARTOON NETWORK
+http://alturl.com/p4ez4
+
+#EXTINF:-1, Disney Channel East
+http://bit.do/bmHSj
+
+#EXTINF:-1, Disney Channel West
+http://bit.do/bmHSA
+
+#EXTINF:-1, Disney Jr
+http://bit.do/bmHSB
+
+#EXTINF:-1, Disney XD
+http://bit.do/bmHSQ
+
+#EXTINF:-1, Nick Jr
+http://bit.do/bmHSW
+
+#EXTINF:-1, Discovery Family
+http://alturl.com/bdzbo
+
+#EXTINF:-1, Discovery Channel USA
+http://alturl.com/zxkwj
+
+#EXTINF:-1, DISCOVERY
+http://alturl.com/zktqz
+
+#EXTINF:-1, Crime + Investigation Network
+http://alturl.com/7t475
+
+#EXTINF:-1, Animal Planet
+http://alturl.com/rujxm
+
+#EXTINF:-1, TBS East
+http://alturl.com/6ua7n
+
+#EXTINF:-1, Spike TV
+http://alturl.com/2ignj
+
+#EXTINF:-1, Really
+http://alturl.com/oa4k4
+
+#EXTINF:-1, ITV Encore
+http://alturl.com/gp9tt
+
+#EXTINF:-1, ITV B
+http://alturl.com/4vwyy
+
+#EXTINF:-1, ION Television East
+http://alturl.com/4nd36
+
+#EXTINF:-1, IFC East
+http://alturl.com/t8ay5
+
+#EXTINF:-1, HIFI
+http://alturl.com/j85me
+
+#EXTINF:-1, Eden
+http://alturl.com/2au2j
+
+#EXTINF:-1, E4
+http://alturl.com/65wjk
+
+#EXTINF:-1, E! 2
+http://alturl.com/tmf8b
+
+#EXTINF:-1, E!
+http://alturl.com/83fir
+
+#EXTINF:-1, Drama
+http://alturl.com/hzxrq
+
+#EXTINF:-1, Dmax
+http://alturl.com/yiqnv
+
+#EXTINF:-1, TNT Drama
+http://alturl.com/zmt6n
+
+#EXTINF:-1, TNT America Latina
+http://alturl.com/4567c
+
+#EXTINF:-1, TNT Drama
+http://alturl.com/7yiqv
+
+#EXTINF:-1, TLC 2
+http://alturl.com/6vkts
+
+#EXTINF:-1, TLC
+http://alturl.com/6dzvp
+
+#EXTINF:-1, FXX East
+http://alturl.com/rxgp6
+
+#EXTINF:-1, FX East
+http://alturl.com/o7xry
+
+#EXTINF:-1, FX
+http://alturl.com/um4m5
+
+#EXTINF:-1, FOX
+http://alturl.com/yr2sy
+
+#EXTINF:-1, A&E
+http://alturl.com/2ni6a
+
+#EXTINF:-1, Bravo East
+http://alturl.com/xmx5w
+
+#EXTINF:-1, CBS
+http://alturl.com/4h2r3
+
+
+#EXTINF:-1, StarMax
+http://bit.do/bmHBF
+
+#EXTINF:-1, AMC
+http://bit.do/bmHBQ
+
+#EXTINF:-1, Canal Sony
+http://bit.do/bmHB7
+
+#EXTINF:-1, Cine Dinamita
+http://bit.do/bmHCy
+
+#EXTINF:-1, CineCanal
+http://bit.do/bmHCz
+
+#EXTINF:-1, Fox 1 Este
+http://alturl.com/ox99g
+
+#EXTINF:-1, Fox Action Este
+http://alturl.com/rb3ar
+
+#EXTINF:-1, Fox Cinema
+http://alturl.com/bxbd7
+
+
+#EXTINF:-1, HBO Comedy East
+http://alturl.com/j2wpc
+
+
+#EXTINF:-1, HBO Family East
+http://alturl.com/zosjg
+
+
+#EXTINF:-1, MOVIES FUN
+http://alturl.com/o826x
+
+#EXTINF:-1, Showtime Next
+http://alturl.com/hfmzu
+
+#EXTINF:-1, SHOWTIME SHOWCASE
+http://alturl.com/jmhbr
+
+
+#EXTINF:-1, SKY Atlantic
+http://alturl.com/fvzwg
+
+#EXTINF:-1, SKY Crime & Thriller
+http://alturl.com/3bxu5
+
+#EXTINF:-1, SKY Family
+http://alturl.com/pii4p
+
+#EXTINF:-1, SKY Modern Greats
+http://alturl.com/ifuyg
+
+#EXTINF:-1, Starz Comedy East
+http://alturl.com/9f9iw
+
+#EXTINF:-1, Starz East
+http://alturl.com/6b7jv
+
+#EXTINF:-1, STARZ ENCORE
+http://alturl.com/vftew
+
+#EXTINF:-1, SKY Sports F1
+http://alturl.com/vpmah
+
+#EXTINF:-1, SKY Sports 5
+http://alturl.com/zistr
+
+#EXTINF:-1, SKY Sports 4
+http://alturl.com/bpmt5
+
+#EXTINF:-1, SKY Sports 3
+http://alturl.com/potqg
+
+#EXTINF:-1, SKY Sports News
+http://alturl.com/yb4da
+
+#EXTINF:-1, Eurosport 1
+http://alturl.com/onahm
+
+#EXTINF:-1, Golf Channel
+http://alturl.com/id9ab
+
+#EXTINF:-1, Racing UK
+http://alturl.com/vb64q
+
+#EXTINF:-1, USA Network East
+http://alturl.com/63pr3
+
+#EXTINF:-1, The Movie Channel Xtra East
+http://alturl.com/ym7kq
+
+
+#EXTINF:-1, TCM US
+http://alturl.com/az5wm
+
+#EXTINF:-1, Starz West
+http://alturl.com/2z5o8
+
+#EXTINF:-1, Starz In Black East
+http://alturl.com/uviyb
+
+
+#EXTINF:-1, SPORTSNET WORLD
+http://alturl.com/bfz48
+
+#EXTINF:-1, TSN 5
+http://alturl.com/9sqea
+
+#EXTINF:-1, TSN 3
+http://alturl.com/c9zhp
+
+#EXTINF:-1, TSN 2
+http://alturl.com/p2qgp
+
+#EXTINF:-1, TSN HD
+http://alturl.com/tivm8
+
+#EXTINF:-1, WWE NETWORK
+http://alturl.com/tugzy
+
+#EXTINF:-1, Yes Network
+http://alturl.com/7pxpb
+
+#EXTINF:-1, SKY Sports 2
+http://alturl.com/sgnir
+
+#EXTINF:-1, SKY Sports 1
+http://alturl.com/e93kk
+
+#EXTINF:-1, BT Sport 2
+http://alturl.com/i9gja
+
+#EXTINF:-1, BT Sport 1
+http://alturl.com/pizzo
+#EXTINF:-1, NBC SPORTS
+http://alturl.com/36558 
+
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1,beIN SPORTS 2 HD
+http://iptv.star7arab.com/free?token=546521378&id=2
+#EXTINF:-1,beIN SPORTS 3 HD
+http://iptv.star7arab.com/free?token=546521378&id=3
+#EXTINF:-1,beIN SPORTS 4 HD
+http://iptv.star7arab.com/free?token=546521378&id=4
+#EXTINF:-1,beIN SPORTS 5 HD
+http://iptv.star7arab.com/free?token=546521378&id=5
+#EXTINF:-1,beIN SPORTS 6 HD
+http://iptv.star7arab.com/free?token=546521378&id=6
+#EXTINF:-1,beIN SPORTS 7 HD
+http://iptv.star7arab.com/free?token=546521378&id=7
+#EXTINF:-1,beIN SPORTS 8 HD
+http://iptv.star7arab.com/free?token=546521378&id=8
+#EXTINF:-1,beIN SPORTS 9 HD
+http://iptv.star7arab.com/free?token=546521378&id=9
+#EXTINF:-1,beIN SPORTS 10 HD
+http://iptv.star7arab.com/free?token=546521378&id=10
+#EXTINF:-1,beIN SPORTS 11 HD
+http://iptv.star7arab.com/free?token=546521378&id=11
+#EXTINF:-1,beIN SPORTS 12 HD
+http://iptv.star7arab.com/free?token=546521378&id=12
+#EXTINF:-1,beIN SPORTS 13 HD
+http://iptv.star7arab.com/free?token=546521378&id=13
+#EXTINF:-1,beIN SPORTS 14 HD
+http://iptv.star7arab.com/free?token=546521378&id=14
+#EXTINF:-1,beIN SPORTS 15 HD
+http://iptv.star7arab.com/free?token=546521378&id=15
+#EXTINF:-1,beIN SPORTS 16 HD
+http://iptv.star7arab.com/free?token=546521378&id=16
+
+
+
+
+
+#EXTM3U
+#EXTINF:0,BBC1
+http://5.196.82.222:8000/live/test1/test1/1.ts
+
+#EXTINF:0,Five
+http://5.196.82.222:8000/live/test1/test1/5.ts
+
+#EXTINF:0,BBC3/CBBC
+http://5.196.82.222:8000/live/test1/test1/9.ts
+
+#EXTINF:0,BBC4/CBEEBIES
+http://5.196.82.222:8000/live/test1/test1/10.ts
+
+
+#EXTINF:0,ITV3
+http://5.196.82.222:8000/live/test1/test1/7.ts
+
+#EXTINF:0,ITV4
+http://5.196.82.222:8000/live/test1/test1/8.ts
+
+
+
+#EXTINF:0,ITV Be
+http://5.196.82.222:8000/live/test1/test1/641.ts
+
+
+#EXTINF:0,CBS Drama
+http://5.196.82.222:8000/live/test1/test1/51.ts
+
+#EXTINF:0,TLC
+http://5.196.82.222:8000/live/test1/test1/94.ts
+
+#EXTINF:0,Drama
+http://5.196.82.222:8000/live/test1/test1/486.ts
+
+#EXTINF:0,MTV
+http://5.196.82.222:8000/live/test1/test1/193.ts
+
+
+#EXTINF:0,Watch
+http://5.196.82.222:8000/live/test1/test1/667.ts
+
+
+
+#EXTINF:0,Lifetime
+http://5.196.82.222:8000/live/test1/test1/661.ts
+
+
+#EXTINF:0,3e
+http://5.196.82.222:8000/live/test1/test1/42.ts
+
+
+#EXTINF:0,Comedy Central
+http://5.196.82.222:8000/live/test1/test1/30.ts
+
+
+#EXTINF:0,Quest
+http://5.196.82.222:8000/live/test1/test1/48.ts
+#EXTINF:0,Comedy Central Extra
+http://5.196.82.222:8000/live/test1/test1/125.ts
+
+#EXTINF:0,Pick TV
+http://5.196.82.222:8000/live/test1/test1/128.ts
+
+
+
+#EXTINF:0,Syfy UK
+http://5.196.82.222:8000/live/test1/test1/127.ts
+
+#EXTINF:0,BBC1 Low
+http://5.196.82.222:8000/live/test1/test1/148.ts
+
+#EXTINF:0,BBC2 Low
+http://5.196.82.222:8000/l
+ive/test1/test1/149.ts
+
+
+
+
+
+#EXTINF:0,True Movies 1
+http://5.196.82.222:8000/live/test1/test1/77.ts
+
+#EXTINF:0,Sky Movies Premiere
+http://5.196.82.222:8000/live/test1/test1/69.ts
+
+
+#EXTINF:0,Sky Movies SciFi
+http://5.196.82.222:8000/live/test1/test1/75.ts
+
+
+
+
+#EXTINF:0,Sky Movies Disney
+http://5.196.82.222:8000/live/test1/test1/129.ts
+
+
+#EXTINF:0,Sky Movies Comedy
+http://5.196.82.222:8000/live/test1/test1/70.ts
+
+#EXTINF:0,Sky Movies Action & Adventure
+http://5.196.82.222:8000/live/test1/test1/71.ts
+
+#EXTINF:0,Viva
+http://5.196.82.222:8000/live/test1/test1/108.ts
+
+
+
+#EXTINF:0,MTV Rocks
+http://5.196.82.222:8000/live/test1/test1/111.ts
+
+#EXTINF:0,MTV Music
+http://5.196.82.222:8000/live/test1/test1/81.ts
+
+
+#EXTINF:0,MTV Dance
+http://5.196.82.222:8000/live/test1/test1/109.ts
+
+
+#EXTINF:0,Magic
+http://5.196.82.222:8000/live/test1/test1/88.ts
+
+
+#EXTINF:0,Heart TV
+http://5.196.82.222:8000/live/test1/test1/87.ts
+
+
+
+#EXTINF:0,Sky Sports 3 HD
+http://5.196.82.222:8000/live/test1/test1/140.ts
+
+
+
+#EXTINF:0,BT Sport 2
+http://5.196.82.222:8000/live/test1/test1/21.ts
+
+
+
+#EXTINF:0,BT Sport Europe
+http://5.196.82.222:8000/live/test1/test1/1074.ts
+
+#EXTINF:0,ESPN
+http://5.196.82.222:8000/live/test1/test1/22.ts
+
+#EXTINF:0,ESPN HD
+http://5.196.82.222:8000/live/test1/test1/147.ts
+
+#EXTINF:0,MUTV
+http://5.196.82.222:8000/live/test1/test1/664.ts
+
+
+#EXTINF:0,Setanta Ireland
+http://5.196.82.222:8000/live/test1/test1/18.ts
+
+#EXTINF:0,Motors TV
+http://5.196.82.222:8000/live/test1/test1/106.ts
+
+#EXTINF:0,Eurosport
+http://5.196.82.222:8000/live/test1/test1/79.ts
+
+#EXTINF:0,At the Races
+http://5.196.82.222:8000/live/test1/test1/24.ts
+
+
+#EXTINF:0,BBC News HD
+http://5.196.82.222:8000/live/test1/test1/120.ts
+
+#EXTM3U
+#EXTINF:-1, WOW Cinema NEW
+http://bit.do/bmHVa
+#EXTINF:-1, 4 Seven NEW
+http://bit.do/bmHTu
+#EXTINF:-1, 5 USA NEW
+http://bit.do/bmHTK
+#EXTINF:-1, Alibi NEW
+http://bit.do/bmHT7
+#EXTINF:-1, H2 USA NEW
+http://bit.do/bmHUA
+#EXTINF:-1, Challenge NEW
+http://bit.do/bmHUo
+#EXTINF:-1, Gold NEW
+http://bit.do/bmHUx
+#EXTINF:-1, Multimedios Plus NEW
+http://bit.do/bmHUD
+#EXTINF:-1, MultiPremier NEW
+http://bit.do/bmHUJ
+#EXTINF:-1, NBC Miami
+http://bit.do/bmHUN
+#EXTINF:-1, Pick
+http://bit.do/bmHUS
+#EXTINF:-1, RTE ONE
+http://bit.do/bmHUW
+#EXTINF:-1, RTE TWO
+http://bit.do/bmHUZ
+#EXTINF:-1, Watch
+http://bit.do/bmHU9
+#EXTINF:-1, Tooncast
+http://bit.do/bmHTm
+#EXTINF:-1, Teen Nick
+http://bit.do/bmHTg
+#EXTINF:-1, 5 Star
+http://bit.do/bmHTC
+#EXTINF:-1, NICKELODEON
+http://bit.do/bmHS2
+#EXTINF:-1, CARTOON NETWORK
+http://alturl.com/p4ez4
+#EXTINF:-1, Disney Channel East
+http://bit.do/bmHSj
+#EXTINF:-1, Disney Channel West
+http://bit.do/bmHSA
+#EXTINF:-1, Disney Jr
+http://bit.do/bmHSB
+#EXTINF:-1, Disney XD
+http://bit.do/bmHSQ
+#EXTINF:-1, Nick Jr
+http://bit.do/bmHSW
+#EXTINF:-1, Discovery Family
+http://alturl.com/bdzbo
+#EXTINF:-1, Discovery Channel USA
+http://alturl.com/zxkwj
+#EXTINF:-1, DISCOVERY
+http://alturl.com/zktqz
+#EXTINF:-1, Crime + Investigation Network
+http://alturl.com/7t475
+#EXTINF:-1, Animal Planet
+http://alturl.com/rujxm
+#EXTINF:-1, TBS East
+http://alturl.com/6ua7n
+#EXTINF:-1, Spike TV
+http://alturl.com/2ignj
+#EXTINF:-1, Really
+http://alturl.com/oa4k4
+#EXTINF:-1, ITV Encore
+http://alturl.com/gp9tt
+#EXTINF:-1, ITV B
+http://alturl.com/4vwyy
+#EXTINF:-1, ION Television East
+http://alturl.com/4nd36
+#EXTINF:-1, IFC East
+http://alturl.com/t8ay5
+#EXTINF:-1, HIFI
+http://alturl.com/j85me
+#EXTINF:-1, Eden
+http://alturl.com/2au2j
+#EXTINF:-1, E4
+http://alturl.com/65wjk
+#EXTINF:-1, E! 2
+http://alturl.com/tmf8b
+#EXTINF:-1, E!
+http://alturl.com/83fir
+#EXTINF:-1, Drama
+http://alturl.com/hzxrq
+#EXTINF:-1, Dmax
+http://alturl.com/yiqnv
+#EXTINF:-1, TNT Drama
+http://alturl.com/zmt6n
+#EXTINF:-1, TNT America Latina
+http://alturl.com/4567c
+#EXTINF:-1, TNT Drama
+http://alturl.com/7yiqv
+#EXTINF:-1, TLC 2
+http://alturl.com/6vkts
+#EXTINF:-1, TLC
+http://alturl.com/6dzvp
+#EXTINF:-1, Lifetime East
+http://alturl.com/x4q4y
+#EXTINF:-1, FXX East
+http://alturl.com/rxgp6
+#EXTINF:-1, FX East
+http://alturl.com/o7xry
+#EXTINF:-1, FX
+http://alturl.com/um4m5
+#EXTINF:-1, FOX
+http://alturl.com/yr2sy
+#EXTINF:-1, A&E
+http://alturl.com/2ni6a
+#EXTINF:-1, ABC Family
+http://alturl.com/tx6hn
+#EXTINF:-1, Bravo East
+http://alturl.com/xmx5w
+#EXTINF:-1, CBS
+http://alturl.com/4h2r3
+#EXTINF:-1, CBS Reality
+http://alturl.com/eimnw
+#EXTINF:-1, StarMax
+http://bit.do/bmHBF
+#EXTINF:-1, AMC
+http://bit.do/bmHBQ
+#EXTINF:-1, Canal Sony
+http://bit.do/bmHB7
+#EXTINF:-1, Cine Dinamita
+http://bit.do/bmHCy
+#EXTINF:-1, CineCanal
+http://bit.do/bmHCz
+#EXTINF:-1, CineLatino
+http://bit.do/bmHCA
+#EXTINF:-1, Cinemax East
+http://bit.do/bmHCC
+#EXTINF:-1, Cinemax Latinoamerica
+http://bit.do/bmHCU
+#EXTINF:-1, CINEMAX MORE MAX
+http://alturl.com/bmf9m
+#EXTINF:-1, Cinemax West
+http://alturl.com/vp5o3
+#EXTINF:-1, Encore Action East
+http://alturl.com/j6gy5
+#EXTINF:-1, Fox 1 Este
+http://alturl.com/ox99g
+#EXTINF:-1, Fox Action Este
+http://alturl.com/rb3ar
+#EXTINF:-1, Fox Cinema
+http://alturl.com/bxbd7
+#EXTINF:-1, Fox Classics Latinoamerica
+http://alturl.com/3dbup
+#EXTINF:-1, Fox Movies Latinoamerica
+http://alturl.com/767b5
+#EXTINF:-1, HBO 2 East
+http://alturl.com/ynddr
+#EXTINF:-1, HBO 2 Latinoamerica
+http://alturl.com/96hf3
+#EXTINF:-1, HBO 2 West
+http://alturl.com/mgrii
+#EXTINF:-1, HBO Comedy East
+http://alturl.com/j2wpc
+#EXTINF:-1, HBO East
+http://alturl.com/fmzew
+#EXTINF:-1, HBO Family East
+http://alturl.com/zosjg
+#EXTINF:-1, HBO Family Latinoamerica
+http://alturl.com/ugvoc
+#EXTINF:-1, HBO Latinoamerica
+http://alturl.com/yijtk
+#EXTINF:-1, HBO Plus Este
+http://alturl.com/moemn
+#EXTINF:-1, HBO Signature East
+http://alturl.com/6zuo4
+#EXTINF:-1, MOVIES FUN
+http://alturl.com/o826x
+#EXTINF:-1, Showtime Next
+http://alturl.com/hfmzu
+#EXTINF:-1, SHOWTIME SHOWCASE
+http://alturl.com/jmhbr
+#EXTINF:-1, Showtime Showcase East
+http://alturl.com/cta9t
+#EXTINF:-1, SKY Atlantic
+http://alturl.com/fvzwg
+#EXTINF:-1, SKY Crime & Thriller
+http://alturl.com/3bxu5
+#EXTINF:-1, SKY Family
+http://alturl.com/pii4p
+#EXTINF:-1, SKY Modern Greats
+http://alturl.com/ifuyg
+#EXTINF:-1, Starz Comedy East
+http://alturl.com/9f9iw
+#EXTINF:-1, Starz East
+http://alturl.com/6b7jv
+#EXTINF:-1, STARZ ENCORE
+http://alturl.com/vftew
+#EXTINF:-1, SKY Sports F1
+http://alturl.com/vpmah
+#EXTINF:-1, SKY Sports 5
+http://alturl.com/zistr
+#EXTINF:-1, SKY Sports 4
+http://alturl.com/bpmt5
+#EXTINF:-1, SKY Sports 3
+http://alturl.com/potqg
+#EXTINF:-1, SKY Sports News
+http://alturl.com/yb4da
+#EXTINF:-1, Eurosport 1
+http://alturl.com/onahm
+#EXTINF:-1, Golf Channel
+http://alturl.com/id9ab
+#EXTINF:-1, Racing UK
+http://alturl.com/vb64q
+#EXTINF:-1, USA Network East
+http://alturl.com/63pr3
+#EXTINF:-1, The Movie Channel Xtra East
+http://alturl.com/ym7kq
+#EXTINF:-1, The Movie Channel East
+http://alturl.com/jfbar
+#EXTINF:-1, TCM US
+http://alturl.com/az5wm
+#EXTINF:-1, Starz West
+http://alturl.com/2z5o8
+#EXTINF:-1, Starz In Black East
+http://alturl.com/uviyb
+#EXTINF:-1, Starz Kids & Family East
+http://alturl.com/gzcdr
+#EXTINF:-1, SPORTSNET WORLD
+http://alturl.com/bfz48
+#EXTINF:-1, TSN 5
+http://alturl.com/9sqea
+#EXTINF:-1, TSN 3
+http://alturl.com/c9zhp
+#EXTINF:-1, TSN 2
+http://alturl.com/p2qgp
+#EXTINF:-1, TSN HD
+http://alturl.com/tivm8
+#EXTINF:-1, WWE NETWORK
+http://alturl.com/tugzy
+#EXTINF:-1, Yes Network
+http://alturl.com/7pxpb
+#EXTINF:-1, Bein Sport 4 HD MAX
+http://alturl.com/q7y8t
+#EXTINF:-1, Bein Sport 3 HD FR
+http://alturl.com/wrktf
+#EXTINF:-1, Bein Sport 2 HD FR
+http://alturl.com/2y8uk
+#EXTINF:-1, Bein Sport 1 HD FR
+http://alturl.com/2aafx
+#EXTINF:-1, BEIN SPORTS
+http://alturl.com/4dnzw
+#EXTINF:-1, BeinSports en Espnol
+http://alturl.com/wfgue
+#EXTINF:-1, Planeta Futbol
+http://alturl.com/c5gwj
+#EXTINF:-1, CTH X HD
+http://alturl.com/8kdz2
+#EXTINF:-1, SKY Sports 2
+http://alturl.com/sgnir
+#EXTINF:-1, SKY Sports 1
+http://alturl.com/e93kk
+#EXTINF:-1, BT Sport 2
+http://alturl.com/i9gja
+#EXTINF:-1, BT Sport 1
+http://alturl.com/pizzo
+#EXTINF:-1, Setanta Sports
+http://alturl.com/nrpx3
+#EXTINF:-1, CBS Sports Network
+http://alturl.com/yprwp
+#EXTINF:-1, ESPNews US
+http://alturl.com/t4kov
+#EXTINF:-1, ESPN 2 US
+http://alturl.com/qjzch
+#EXTINF:-1, ESPN US
+http://alturl.com/m5959
+#EXTINF:-1, ESPNU
+http://alturl.com/ard8v
+#EXTINF:-1, Fox Sports Florida
+http://alturl.com/tkgfc
+#EXTINF:-1, Fox Sports 2 US
+http://alturl.com/qafop
+#EXTINF:-1, Fox Sports 1 US
+http://alturl.com/k8ag6
+#EXTINF:-1, MLB Network
+http://alturl.com/xhhd7
+#EXTINF:-1, MSG
+http://alturl.com/m57so
+#EXTINF:-1, MUTV
+http://alturl.com/v2jst
+#EXTINF:-1, NBA TV
+http://alturl.com/mry3q
+#EXTINF:-1, NBC SPORTS
+http://alturl.com/36558
+#EXTINF:-1, NFL Network
+http://alturl.com/3oinv
+#EXTINF:-1, CTH 4 HD
+http://alturl.com/sgyc4
+#EXTINF:-1, CTH 5 HD
+http://alturl.com/7pprc
+#EXTINF:-1, CTH 2 HD
+http://alturl.com/hxmjc
+#EXTINF:-1, CTH 3 HD
+http://alturl.com/onr5t
+#EXTINF:-1, OTE Sport 2
+http://alturl.com/rnjeo
+#EXTINF:-1, CTH 1 HD
+http://alturl.com/k8pf5
+
+
+
+
