@@ -1,467 +1,154 @@
 #EXTM3U
-#EXTINF:-1, 05-10-2012 UPDATE
-http://199.180.114.174:8000/foxs.m3u8?TDSD
+
+
+ #EXTINF:-1,   SKY SPORTS ONE
+http://a1.aliez.biz:8080/hls/streama36242/index.m3u8
+
+#EXTINF:-1, sky ports ONE back up
+http://178.18.30.114:8081/liverepeater/224252/chunklist_w1167953515.m3u8?nimblesessionid=3020049&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6Mjk6MjkgUE0maGFzaF92YWx1ZT1DNnNNWVJjc0w3WHpBbGovV1Z5dldnPT0mdmFsaWRtaW51dGVzPTQ=
+
+#EXTINF:0, SkySport 1 HD
+http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
+
+
+#EXTINF:-1, sky SPORTS 2
+http://178.18.31.67:8081/liverepeater/224255/chunklist_w281002846.m3u8?nimblesessionid=271737&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MzM6MzIgUE0maGFzaF92YWx1ZT0yOWFEV1BHUzRVZDk1RGtsaWJGQ2t3PT0mdmFsaWRtaW51dGVzPTQ=
+ #EXTINF:0, SkySport2 HD
+http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8
+
+ #EXTINF:-1, sky SPORTS 3
+http://178.18.31.52:8081/liverepeater/224251/chunklist_w766155334.m3u8?nimblesessionid=3121519&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MzU6MjcgUE0maGFzaF92YWx1ZT1IZDdJLytFVThRYUNFWGVsMHlHYXFRPT0mdmFsaWRtaW51dGVzPTQ=
+
+#EXTINF:0, SkySport 3 HD
+http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
+
+#EXTINF:0, SkySport 4
+http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
+
+#EXTINF:0, SkySport 5
+http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
+
+
+
+ #EXTINF:-1, sky SPORTS NEWS
+http://178.18.31.52:8081/liverepeater/224164/chunklist_w1552785308.m3u8?nimblesessionid=3121662&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDE6NDUgUE0maGFzaF92YWx1ZT1RMU9NZnJnU1Vaa1BQMmVHV3NGSnZnPT0mdmFsaWRtaW51dGVzPTQ=
+
+
+
+#EXTINF:-1, SKY SPORT F1 HD 
+http://185.63.255.112/live/sf11/playlist.m3u8
+
+#EXTINF:0, SkySport F1 BACK UP
+http://195.154.226.186:1935/livepp7/vskysf1lsh/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, BT SPORT ONE
+http://a1.aliez.biz:8080/hls/streama36241/index.m3u8
+
+
+
+ #EXTINF:-1, BT SPORT TWO
+http://a1.aliez.biz:8080/hls/streama36237/index.m3u8
+
+
+ #EXTINF:-1, BT SPORT ESPN
+http://178.18.31.61:8081/liverepeater/224222/chunklist_w571955895.m3u8?nimblesessionid=2908037&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDM6MjggUE0maGFzaF92YWx1ZT1MRXFTZVFabVIya3JKYXF1cWFCV1hRPT0mdmFsaWRtaW51dGVzPTQ=
+
+#EXTINF:0, ESPN UK
+http://195.154.226.186:1935/livepp7/espnuklsh/playlist.m3u8
+
+#EXTINF:-1, BT SPORT EUROPE
+http://178.18.31.61:8081/liverepeater/224248/chunklist_w1576632624.m3u8?nimblesessionid=2908057&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDQ6MzkgUE0maGFzaF92YWx1ZT02UkhlRGV2Qi93b0puRU5acTdnYllRPT0mdmFsaWRtaW51dGVzPTQ=
+
+
+
+
+
+
+
+#EXTINF:-1,BOX NATION
+http://178.18.31.54:8081/liverepeater/201775/chunklist_w1779163474.m3u8?nimblesessionid=1749854&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NTM6MjMgUE0maGFzaF92YWx1ZT1IOG51WUVCSE40cGtCUnB6Z2pSZ2d3PT0mdmFsaWRtaW51dGVzPTQ=
+
+
+
+ #EXTINF:-1, EURO SPORT ONE 
+http://185.63.255.112/live/euro11/chunks.m3u8?nimblesessionid=880102.m3u8
+
+#EXTINF:0, Eurosport 1 uk HD
+http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
+#EXTINF:0, Eurosport 2 uk
+http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
+
+
+ #EXTINF:-1, MUTV
+http://178.18.31.67:8081/liverepeater/197888/chunklist_w317463164.m3u8?nimblesessionid=271978&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDY6MjcgUE0maGFzaF92YWx1ZT1uZ2hVTm5tbDF2dEdHVTNGRERuTEhnPT0mdmFsaWRtaW51dGVzPTQ=
+
+ #EXTINF:-1, CHELSEATV
+http://178.18.30.108:8081/liverepeater/198155/chunklist_w263623551.m3u8?nimblesessionid=2939613&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDc6NDAgUE0maGFzaF92YWx1ZT0rUFdQMlh6SUV1cUtPcUllcUFxcjN3PT0mdmFsaWRtaW51dGVzPTQ=
+
 #EXTINF:-1, FOX SPORTS
 http://199.180.114.174:8000/foxs.m3u8?Token
+
+
 #EXTINF:-1, FOX SPORTS 2
 http://199.180.114.174:8000/foxs2.m3u8?Token
-#EXTINF:-1, Nat Geo HD
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/95.m3u8?Token
-#EXTINF:-1,Cartoon Network HD
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/94.m3u8?Token
-#EXTM3U
-#EXTINF:0, Eurosport 1 uk
-http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
-#EXTINF:0, Eurosport 2 uk
-http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
-#EXTINF:0, SkySport 1
-http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
-#EXTINF:0, SkySport2
-http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8
-#EXTINF:0, SkySport 3
-http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
-#EXTINF:0, SkySport 4
-http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
-#EXTINF:0, SkySport 5
-http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
-#EXTINF:0, SkySport F1
-http://195.154.226.186:1935/livepp7/vskysf1lsh/playlist.m3u8
-#EXTINF:0, BT Sport 1
-http://195.154.226.186:1935/livepp7/btsports1lsh/playlist.m3u8
-#EXTINF:0, BT Sport 2
-http://195.154.226.186:1935/livepp7/btsports2lsh/playlist.m3u8
-#EXTINF:-1, beIN Sports 1 HD
-http://195.154.226.186:1935/livepp7/bein1frlsh/playlist.m3u8
-#EXTINF:-1, beIN Sports 2 HD
-http://195.154.226.186:1935/livepp7/bein2frlsh/playlist.m3u8
-#EXTINF:0, ESPN UK
-http://195.154.226.186:1935/livepp7/espnuklsh/playlist.m3u8
+
 #EXTINF:0,Premier sports
 http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
 
-#EXTINF:0, ArenaSport 1
-http://195.154.226.186:1935/livepp7/arhd1lsh/playlist.m3u8
-#EXTINF:0, ArenaSport 2
-http://195.154.226.186:1935/livepp7/arhd2lsh/playlist.m3u8
-#EXTINF:0, ArenaSport 3
-http://195.154.226.186:1935/livepp7/arhd3lsh/playlist.m3u8
-#EXTINF:0, ArenaSport 4
-http://195.154.226.186:1935/livepp7/arhd4lsh/playlist.m3u8
-#EXTINF:0,SportKlub 1
-http://195.154.226.186:1935/livepp7/skhd1lsh/playlist.m3u8
-#EXTINF:0,SportKlub 2
-http://195.154.226.186:1935/livepp7/skhd2lsh/playlist.m3u8
-#EXTINF:0,SportKlub 3
-http://195.154.226.186:1935/livepp7/skhd3lsh/playlist.m3u8
-#EXTM3U
-#EXTINF:-1,ID
-http://stream.balticbox.tv:8080/IDUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,RTE One
-http://stream.balticbox.tv:8080/RTE1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,RTE Two [HD]
-http://stream.balticbox.tv:8080/RTE2/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,RTEjr
-http://stream.balticbox.tv:8080/RTEJR/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,TV3 IE
-http://stream.balticbox.tv:8080/TV3IRL/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,TG4
-http://stream.balticbox.tv:8080/TG4/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,3e
-http://stream.balticbox.tv:8080/3e/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Comedy Xtra
-http://stream.balticbox.tv:8080/CmdyXtr/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,DisneyChnl
-http://stream.balticbox.tv:8080/Disney/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Animal Planet
-http://stream.balticbox.tv:8080/ANIUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Discovery History
-http://stream.balticbox.tv:8080/DISHist/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,DisneyJunior
-http://stream.balticbox.tv:8080/DIJR/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Cartoon Network UK
-http://stream.balticbox.tv:8080/CARUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Discovery1
-http://stream.balticbox.tv:8080/DIS1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Discovery Science
-http://stream.balticbox.tv:8080/DISS/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Discovery Turbo
-http://stream.balticbox.tv:8080/DISTurbo/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Travel Channel+1 UK
-http://stream.balticbox.tv:8080/TRAUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,CBS Reality+1 UK
-http://stream.balticbox.tv:8080/CBSReality/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,TCM +1 UK
-http://stream.balticbox.tv:8080/TCMUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,mov4men1
-http://stream.balticbox.tv:8080/M4M/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Family Movies
-http://stream.balticbox.tv:8080/SkyFamily/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Greats Movies
-http://stream.balticbox.tv:8080/SkyGreats/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Thriller Movies
-http://stream.balticbox.tv:8080/SkyCrime/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Comedy Movies
-http://stream.balticbox.tv:8080/SkyComedy/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Premiere Movies
-http://stream.balticbox.tv:8080/SkyPremiere/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Action Movies
-http://stream.balticbox.tv:8080/SkyAction/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Select Movies
-http://stream.balticbox.tv:8080/SkySelect/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky DramaRom Movies
-http://stream.balticbox.tv:8080/SkyDrama/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky ScFiHorror Movies
-http://stream.balticbox.tv:8080/SkySci/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,MUTV
-http://stream.balticbox.tv:8080/MUTV/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,BT Sport EUROPE
-http://stream.balticbox.tv:8080/BTSpeur/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,BT Sport ESPN
-http://stream.balticbox.tv:8080/BTSespn/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,BT Sport 1
-http://stream.balticbox.tv:8080/BTSp1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,BT Sport 2
-http://stream.balticbox.tv:8080/BTSp2/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,PremierSports
-http://stream.balticbox.tv:8080/PRMSP/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Racing UK
-http://stream.balticbox.tv:8080/RACUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Setanta Ireland
-http://stream.balticbox.tv:8080/SETIRL/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sports F1
-http://stream.balticbox.tv:8080/SkySPf1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Sp News HQ
-http://stream.balticbox.tv:8080/SKYSPNEWS/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Sports 1
-http://stream.balticbox.tv:8080/SkySP1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Sports 2
-http://stream.balticbox.tv:8080/SkySP2/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Sports 3
-http://stream.balticbox.tv:8080/SkySP3/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Sports 4
-http://stream.balticbox.tv:8080/SkySP4/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Sports 5
-http://stream.balticbox.tv:8080/SkySP5/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,British Eurosport
-http://stream.balticbox.tv:8080/EUUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,British Eurosport2
-http://stream.balticbox.tv:8080/EU2UK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Box Nation
-http://stream.balticbox.tv:8080/BOX/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Chelsea TV
-http://stream.balticbox.tv:8080/Chls/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,LFC TV
-http://stream.balticbox.tv:8080/LFCTV/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,NBA
-http://stream.balticbox.tv:8080/NBA/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Viasat Golf
-http://stream.balticbox.tv:8080/VSGOLF/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,MTV BASE
-http://stream.balticbox.tv:8080/MTVB/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,MTV ROCKS
-http://stream.balticbox.tv:8080/MTVR/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,MTV Dance
-http://stream.balticbox.tv:8080/MTVD/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,MTV Hits!
-http://stream.balticbox.tv:8080/MTVH/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,VIVA the Hits!
-http://stream.balticbox.tv:8080/VIVA/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky 1
-http://stream.balticbox.tv:8080/Sky1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky 2
-http://stream.balticbox.tv:8080/Sky2/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Atlantic
-http://stream.balticbox.tv:8080/SkyAtl/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Horror Channel UK
-http://stream.balticbox.tv:8080/HOR/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Boomerang
-http://stream.balticbox.tv:8080/BOO/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,ITV
-http://stream.balticbox.tv:8080/ITV1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,ITV 2
-http://stream.balticbox.tv:8080/ITV2/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,ITV 3
-http://stream.balticbox.tv:8080/ITV3/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,ITV 4
-http://stream.balticbox.tv:8080/ITV4/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,BBC One [HD]
-http://stream.balticbox.tv:8080/HDBBC1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,BBC Two [HD]
-http://stream.balticbox.tv:8080/HDBBC2/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Motors UK
-http://stream.balticbox.tv:8080/MOTUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Movies Disney
-http://stream.balticbox.tv:8080/SkyDisney/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,MTV MUSIC
-http://stream.balticbox.tv:8080/MTVM/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Investigation Discovery
-http://stream.balticbox.tv:8080/IDUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Dave
-http://stream.balticbox.tv:8080/dave/mono.m3u8?token=asgdkhasg!54754
-#EXT-X-ENDLIST
 
 
 
 
-#EXTINF:-1,ID
-http://stream.balticbox.tv:8080/IDUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,RTE One
-http://stream.balticbox.tv:8080/RTE1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,RTE Two [HD]
-http://stream.balticbox.tv:8080/RTE2/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,RTEjr
-http://stream.balticbox.tv:8080/RTEJR/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,TV3 IE
-http://stream.balticbox.tv:8080/TV3IRL/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,TG4
-http://stream.balticbox.tv:8080/TG4/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,3e
-http://stream.balticbox.tv:8080/3e/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Comedy Xtra
-http://stream.balticbox.tv:8080/CmdyXtr/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,DisneyChnl
-http://stream.balticbox.tv:8080/Disney/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Animal Planet
-http://stream.balticbox.tv:8080/ANIUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Discovery History
-http://stream.balticbox.tv:8080/DISHist/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,DisneyJunior
-http://stream.balticbox.tv:8080/DIJR/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Cartoon Network UK
-http://stream.balticbox.tv:8080/CARUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Discovery1
-http://stream.balticbox.tv:8080/DIS1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Discovery Science
-http://stream.balticbox.tv:8080/DISS/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Discovery Turbo
-http://stream.balticbox.tv:8080/DISTurbo/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Travel Channel+1 UK
-http://stream.balticbox.tv:8080/TRAUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,CBS Reality+1 UK
-http://stream.balticbox.tv:8080/CBSReality/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,TCM +1 UK
-http://stream.balticbox.tv:8080/TCMUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,mov4men1
-http://stream.balticbox.tv:8080/M4M/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Family Movies
-http://stream.balticbox.tv:8080/SkyFamily/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Greats Movies
-http://stream.balticbox.tv:8080/SkyGreats/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Thriller Movies
-http://stream.balticbox.tv:8080/SkyCrime/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Comedy Movies
-http://stream.balticbox.tv:8080/SkyComedy/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Premiere Movies
-http://stream.balticbox.tv:8080/SkyPremiere/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Action Movies
-http://stream.balticbox.tv:8080/SkyAction/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Select Movies
-http://stream.balticbox.tv:8080/SkySelect/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky DramaRom Movies
-http://stream.balticbox.tv:8080/SkyDrama/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky ScFiHorror Movies
-http://stream.balticbox.tv:8080/SkySci/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,MUTV
-http://stream.balticbox.tv:8080/MUTV/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,BT Sport EUROPE
-http://stream.balticbox.tv:8080/BTSpeur/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,BT Sport ESPN
-http://stream.balticbox.tv:8080/BTSespn/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,BT Sport 1
-http://stream.balticbox.tv:8080/BTSp1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,BT Sport 2
-http://stream.balticbox.tv:8080/BTSp2/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,PremierSports
-http://stream.balticbox.tv:8080/PRMSP/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Racing UK
-http://stream.balticbox.tv:8080/RACUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Setanta Ireland
-http://stream.balticbox.tv:8080/SETIRL/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sports F1
-http://stream.balticbox.tv:8080/SkySPf1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Sp News HQ
-http://stream.balticbox.tv:8080/SKYSPNEWS/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Sports 1
-http://stream.balticbox.tv:8080/SkySP1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Sports 2
-http://stream.balticbox.tv:8080/SkySP2/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Sports 3
-http://stream.balticbox.tv:8080/SkySP3/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Sports 4
-http://stream.balticbox.tv:8080/SkySP4/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Sports 5
-http://stream.balticbox.tv:8080/SkySP5/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,British Eurosport
-http://stream.balticbox.tv:8080/EUUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,British Eurosport2
-http://stream.balticbox.tv:8080/EU2UK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Box Nation
-http://stream.balticbox.tv:8080/BOX/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Chelsea TV
-http://stream.balticbox.tv:8080/Chls/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,LFC TV
-http://stream.balticbox.tv:8080/LFCTV/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,NBA
-http://stream.balticbox.tv:8080/NBA/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Viasat Golf
-http://stream.balticbox.tv:8080/VSGOLF/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,MTV BASE
-http://stream.balticbox.tv:8080/MTVB/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,MTV ROCKS
-http://stream.balticbox.tv:8080/MTVR/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,MTV Dance
-http://stream.balticbox.tv:8080/MTVD/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,MTV Hits!
-http://stream.balticbox.tv:8080/MTVH/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,VIVA the Hits!
-http://stream.balticbox.tv:8080/VIVA/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky 1
-http://stream.balticbox.tv:8080/Sky1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky 2
-http://stream.balticbox.tv:8080/Sky2/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Atlantic
-http://stream.balticbox.tv:8080/SkyAtl/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Horror Channel UK
-http://stream.balticbox.tv:8080/HOR/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Boomerang
-http://stream.balticbox.tv:8080/BOO/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,ITV
-http://stream.balticbox.tv:8080/ITV1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,ITV 2
-http://stream.balticbox.tv:8080/ITV2/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,ITV 3
-http://stream.balticbox.tv:8080/ITV3/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,ITV 4
-http://stream.balticbox.tv:8080/ITV4/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,BBC One [HD]
-http://stream.balticbox.tv:8080/HDBBC1/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,BBC Two [HD]
-http://stream.balticbox.tv:8080/HDBBC2/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Motors UK
-http://stream.balticbox.tv:8080/MOTUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Sky Movies Disney
-http://stream.balticbox.tv:8080/SkyDisney/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,MTV MUSIC
-http://stream.balticbox.tv:8080/MTVM/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Investigation Discovery
-http://stream.balticbox.tv:8080/IDUK/mono.m3u8?token=asgdkhasg!54754
-#EXTINF:-1,Dave
-http://stream.balticbox.tv:8080/dave/mono.m3u8?token=asgdkhasg!54754
 
 
 
 
-#EXTINF:0,04/10/2012 UPDATE
-http://iptv15.zapto.org:8000/live/freefi/2015/759.tsDD
-
-#EXTINF:0,UK Animal Planet
-http://iptv15.zapto.org:8000/live/freefi/2015/759.ts
-#EXTINF:0,TNT HD
-http://iptv15.zapto.org:8000/live/freefi/2015/758.ts
-#EXTINF:0,TLC US
-http://iptv15.zapto.org:8000/live/freefi/2015/754.ts
-#EXTINF:0,TLC
-http://iptv15.zapto.org:8000/live/freefi/2015/761.ts
-#EXTINF:0,HSN 2
-http://iptv15.zapto.org:8000/live/freefi/2015/757.ts
-#EXTINF:0,HSN
-http://iptv15.zapto.org:8000/live/freefi/2015/756.ts
-#EXTINF:0,DISCOVERY TURBO
-http://iptv15.zapto.org:8000/live/freefi/2015/752.ts
-#EXTINF:0,DISCOVERY SCI HD
-http://iptv15.zapto.org:8000/live/freefi/2015/753.ts
-#EXTINF:0,Cinemax East
-http://iptv15.zapto.org:8000/live/freefi/2015/762.ts
-#EXTINF:0,CARTOON NET HD
-http://iptv15.zapto.org:8000/live/freefi/2015/750.ts
-#EXTINF:0,Cartoon HD
-http://iptv15.zapto.org:8000/live/freefi/2015/760.ts
-#EXTINF:0,BLOOMBERG HD
-http://iptv15.zapto.org:8000/live/freefi/2015/755.ts
-#EXTINF:0,Amazing Discoveries HD
-http://iptv15.zapto.org:8000/live/freefi/2015/751.ts
-#EXTINF:0,UK:Vevo1 HD
-http://iptv15.zapto.org:8000/live/freefi/2015/496.ts
-#EXTINF:0,UK:SKY-NEWS
-http://iptv15.zapto.org:8000/live/freefi/2015/498.ts
-#EXTINF:0,UK: SKY SPORT 1 HD
-http://iptv15.zapto.org:8000/live/freefi/2015/517.ts
-#EXTINF:0,UK: Sky Action
-http://iptv15.zapto.org:8000/live/freefi/2015/502.ts
-#EXTINF:0,UK: Setanta Sport
-http://iptv15.zapto.org:8000/live/freefi/2015/518.ts
-#EXTINF:0,UK: Premiere Sport
-http://iptv15.zapto.org:8000/live/freefi/2015/520.ts
-#EXTINF:0,UK: KISS TV
-http://iptv15.zapto.org:8000/live/freefi/2015/503.ts
-#EXTINF:0,UK: Discovery
-http://iptv15.zapto.org:8000/live/freefi/2015/504.ts
-#EXTINF:0, SkySport 1
-http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
-#EXTINF:0, SkySport2
-http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8
-#EXTINF:0, SkySport 3
-http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
-#EXTINF:0, BT Sport Europe
-http://195.154.226.186:1935/livepp7/bteulsh/playlist.m3u8
-#EXTINF:-1,BABYTV
-http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_BABYTV/variant.m3u8?version=2
-#EXTINF:0, Eurosport 1 uk
-http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
-#EXTINF:0, Eurosport 2 uk
-http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
-#EXTINF:0, SkySport 1
-http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
-#EXTINF:0, SkySport2
-http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8
-#EXTINF:0, SkySport 3
-http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
-#EXTINF:0, SkySport 4
-http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
-#EXTINF:0, SkySport 5
-http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
-#EXTINF:-1, beIN Sports 2 HD
-http://195.154.226.186:1935/livepp7/bein2frlsh/playlist.m3u8
-#EXTINF:0, ESPN UK
-http://195.154.226.186:1935/livepp7/espnuklsh/playlist.m3u8
-#EXTINF:0,Premier sports
-http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
-#EXTINF:0, ArenaSport 2
-http://195.154.226.186:1935/livepp7/arhd2lsh/playlist.m3u8
-#EXTINF:0, ArenaSport 4
-http://195.154.226.186:1935/livepp7/arhd4lsh/playlist.m3u8
-#EXTINF:0,SportKlub 1
-http://195.154.226.186:1935/livepp7/skhd1lsh/playlist.m3u8
-#EXTINF:-1, TSN 1
-http://edge.ultracast.me:1935/live/tsn1F8Cm4/playlist.m3u8?Token
-#EXTINF:-1, TSN 2
-http://edge.ultracast.me:1935/live/tsn2J1zkd/playlist.m3u8?Token
-#EXTINF:-1, TSN 3
-http://edge.ultracast.me:1935/live/tsn3Hrape/playlist.m3u8?Token
-#EXTINF:-1, TSN 4
-http://edge.ultracast.me:1935/live/tsn4sR2TI/playlist.m3u8?Token
-#EXTINF:-1, TSN 5
-http://edge.ultracast.me:1935/live/tsn5DT2F6/playlist.m3u8?Token
-#EXTINF:-1, Sky Sports 1 UK
-http://edge.ultracast.me:1935/live/Sky1ukvW1jF/playlist.m3u8?Token
-#EXTINF:-1, Sky Sports 3 UK
-http://edge.ultracast.me:1935/live/sky38GYsO/playlist.m3u8?Token
-#EXTINF:-1, Sky Sports 5 UK
-http://edge.ultracast.me:1935/live/sky5sdUntfG/playlist.m3u8?Token
-#EXTINF:-1, BT Sport 1 HD UK
-http://edge.ultracast.me:1935/live/bt1sdW5n7u/playlist.m3u8?Token
-#EXTINF:0,BBC 1
- http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=0
-#EXTINF:0,BBC 2
- http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=1
 
 
 
 
-#EXTINF:-1, Cartoon Network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-<<<<<<< HEAD
-=======
+
+
+#EXTINF:-1, REALLY
+http://live308.edge.filmon.com/live/372.low.stream/chunklist_w465471094.m3u8?id=dfeaee20a696d4cb20dd7914ce6e8854fa50a0b6e26dbfb5ab4f2d588830ebb9d68e96625c48c87184f6531376431b4350eadb3515342b562e6b075bb5fa326d09e8bef59eca9c672107626ee59a934927f9d33707de16cd73f2afcb42759854b8906f0dd25b3b47fdd25cc4f28831ccfe9eb99ce1b74b57810e422617b9012242df58de6266a26416150a1785d788eaad447436eca5d64c
+
+#EXTINF:-1, PICK
+http://198.179.31.195/live/689.low.stream/playlist.m3u8?id=975a77f7e69b369b2dd62676a78f05695c7d943f4d9022bd37da99f7bb448796cacabd7daadc3eeb48f5067f2586e940bc798d1021c5c64782bcb40a291b3a7b418c41fdab8bf716918cbdb5beaf63c29126b53553ae9565f8faf3125d6e4a166df3c11a59915ba1fdb1e71d57aa51433e57f52478fced446be3f19af50f0aaf5c5fc9c6c71e9959fc12857c641d06d66d496af3187debc0
+
+
+#EXTINF:-1, TRAVEL CHANNEL
+http://live308.edge.filmon.com/live/842.low.stream/chunklist_w930667265.m3u8?id=428c20d787f631198873a3460599276071c77908ac3140176d76512098cc628c425e7bcdd4a5112d54f21c0d2bb96031fa821c86b5aa3ced17d070ac8701da2603e200544520ed51876589e240e8099c091c4e82f2a53a1b03cd5a17a73900cba06cc45e029ca48ef1269cdb5b9c3c9fbefdd43699bf8f6dd01809f89e4be042b2e6c7151fd223a4335a4dd06937ecb15843c505deef52da
+
+
+
+#EXTINF:-1, BBC WORLD NEWS
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_,828,528,264,.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
