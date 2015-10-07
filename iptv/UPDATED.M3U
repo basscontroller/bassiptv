@@ -1,25 +1,180 @@
 #EXTM3U
 
+#EXTINF:-1,[COLOR yellow]--- UK TV ---[/COLOR]
+http://0.0.0.0:1234
 
- #EXTINF:-1,   SKY SPORTS ONE
-http://a1.aliez.biz:8080/hls/streama36242/index.m3u8
 
-#EXTINF:-1, sky ports ONE back up
-http://178.18.30.114:8081/liverepeater/224252/chunklist_w1167953515.m3u8?nimblesessionid=3020049&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6Mjk6MjkgUE0maGFzaF92YWx1ZT1DNnNNWVJjc0w3WHpBbGovV1Z5dldnPT0mdmFsaWRtaW51dGVzPTQ=
+#EXTINF:-1,BBC One London 
+http://82.135.224.134:80/udp/239.100.3.1:1234
 
-#EXTINF:0, SkySport 1 HD
+#EXTINF:-1,BBC Two HD
+http://wownet.ro/str/0404.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1, ITV ONE
+http://wownet.ro/str/0409.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1, iTV 2
+http://wownet.ro/str/0411.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1, iTV 3
+http://wownet.ro/str/0412.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1, iTV 4
+http://wownet.ro/str/0413.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1,Channel 4 HD
+http://wownet.ro/str/0414.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1, Channel 5
+http://wownet.ro/str/0416.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1,BBC Three 
+http://82.135.224.134:80/udp/239.100.3.4:1234
+#EXTINF:-1,BBC Four 
+http://82.135.224.134:80/udp/239.100.3.5:1234
+#EXTINF:-1, London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1,More4
+http://wownet.ro/str/0417.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1,E4
+http://wownet.ro/str/0418.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1,FASTION TV
+http://wownet.ro/str/0419.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1,TRAVELchannel
+http://wownet.ro/str/0420.m3u8|X-Forwarded-For=81.17.18.50
+
+
+
+
+#EXTINF:-1,[COLOR yellow]--- UK TV ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0,BBC 1
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=0
+ #EXTINF:0,BBC 1 Link 2
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=41
+ #EXTINF:0,BBC 2
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=1
+ #EXTINF:0,BBC 2 Link 2
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=42
+ #EXTINF:0,BBC 3
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=48
+ #EXTINF:0,BBC 4
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=36
+ #EXTINF:0,BBC News
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=40
+ #EXTINF:0,BBC News Link 2
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=51
+ #EXTINF:0,ITV 1
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2
+ #EXTINF:0,ITV 1 Link 2
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=43
+ #EXTINF:0,ITV 1 +1
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=52
+ #EXTINF:0,ITV 2
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=5
+ #EXTINF:0,ITV 2 +1
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=53
+ #EXTINF:0,ITV 3
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=8
+ #EXTINF:0,ITV 4
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=9
+ #EXTINF:0,ITV Be
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35
+ #EXTINF:0,CBS Action
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28
+ #EXTINF:0,CBS Reality
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=27
+ #EXTINF:0,Challenge
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=18
+ #EXTINF:0,Channel 4
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=3
+ #EXTINF:0,Channel 4 Link 2
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=44
+ #EXTINF:0,Channel 4 +1
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=50
+ #EXTINF:0,Channel 4 +1 Link 2
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=54
+ #EXTINF:0,Channel 5
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4
+ #EXTINF:0,Channel 5 +1
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=55
+ #EXTINF:0,Channel 5 +24
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=64
+ #EXTINF:0,Dave
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=11
+ #EXTINF:0,Dave Ja Vu
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=60
+ #EXTINF:0,Drama
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=19
+ #EXTINF:0,E4
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=16
+ #EXTINF:0,E4 +1
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=59
+ #EXTINF:0,Film Four
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=14
+ #EXTINF:0,Film Four +1
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=58
+ #EXTINF:0,Food Network
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=32
+ #EXTINF:0,Horror Channel
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=29
+ #EXTINF:0,More 4
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=15
+ #EXTINF:0,Motors TV
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=31
+ #EXTINF:0,MovieMix
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=30
+ #EXTINF:0,Movies4Men
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=33
+ #EXTINF:0,Pick TV
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=10
+ #EXTINF:0,Quest
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=17
+ #EXTINF:0,Quest +1
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=62
+ #EXTINF:0,Really
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=21
+ #EXTINF:0,Spike UK
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=26
+ #EXTINF:0,True Entertainment
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=20
+ #EXTINF:0,TruTV UK
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=34
+ #EXTINF:0,Yesterday
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=12
+ #EXTINF:0,4 Music
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=22
+ #EXTINF:0,4 Seven
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=13
+ #EXTINF:0,4 Seven Link 2
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=47
+ #EXTINF:0,5 Star
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=24
+ #EXTINF:0,5 USA
+ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=25
+
+
+
+#EXTINF:-1,[COLOR green]--- sports ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:0, Eurosport 1 uk
+http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
+
+#EXTINF:0, Eurosport 2 uk
+http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
+
+#EXTINF:0, SkySport 1
 http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
 
 
-#EXTINF:-1, sky SPORTS 2
-http://178.18.31.67:8081/liverepeater/224255/chunklist_w281002846.m3u8?nimblesessionid=271737&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MzM6MzIgUE0maGFzaF92YWx1ZT0yOWFEV1BHUzRVZDk1RGtsaWJGQ2t3PT0mdmFsaWRtaW51dGVzPTQ=
- #EXTINF:0, SkySport2 HD
-http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8
 
- #EXTINF:-1, sky SPORTS 3
-http://178.18.31.52:8081/liverepeater/224251/chunklist_w766155334.m3u8?nimblesessionid=3121519&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6MzU6MjcgUE0maGFzaF92YWx1ZT1IZDdJLytFVThRYUNFWGVsMHlHYXFRPT0mdmFsaWRtaW51dGVzPTQ=
 
-#EXTINF:0, SkySport 3 HD
+#EXTINF:0, SkySport 3
 http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
 
 #EXTINF:0, SkySport 4
@@ -28,81 +183,37 @@ http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
 #EXTINF:0, SkySport 5
 http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
 
-
-
- #EXTINF:-1, sky SPORTS NEWS
-http://178.18.31.52:8081/liverepeater/224164/chunklist_w1552785308.m3u8?nimblesessionid=3121662&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDE6NDUgUE0maGFzaF92YWx1ZT1RMU9NZnJnU1Vaa1BQMmVHV3NGSnZnPT0mdmFsaWRtaW51dGVzPTQ=
-
-
-
-#EXTINF:-1, SKY SPORT F1 HD 
-http://185.63.255.112/live/sf11/playlist.m3u8
-
-#EXTINF:0, SkySport F1 BACK UP
+#EXTINF:0, SkySport F1
 http://195.154.226.186:1935/livepp7/vskysf1lsh/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1, BT SPORT ONE
 http://a1.aliez.biz:8080/hls/streama36241/index.m3u8
 
 
-
- #EXTINF:-1, BT SPORT TWO
-http://a1.aliez.biz:8080/hls/streama36237/index.m3u8
-
-
- #EXTINF:-1, BT SPORT ESPN
-http://178.18.31.61:8081/liverepeater/224222/chunklist_w571955895.m3u8?nimblesessionid=2908037&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDM6MjggUE0maGFzaF92YWx1ZT1MRXFTZVFabVIya3JKYXF1cWFCV1hRPT0mdmFsaWRtaW51dGVzPTQ=
+#EXTINF:0, BT Sport 2
+http://195.154.226.186:1935/livepp7/btsports2lsh/playlist.m3u8
 
 #EXTINF:0, ESPN UK
 http://195.154.226.186:1935/livepp7/espnuklsh/playlist.m3u8
 
-#EXTINF:-1, BT SPORT EUROPE
-http://178.18.31.61:8081/liverepeater/224248/chunklist_w1576632624.m3u8?nimblesessionid=2908057&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDQ6MzkgUE0maGFzaF92YWx1ZT02UkhlRGV2Qi93b0puRU5acTdnYllRPT0mdmFsaWRtaW51dGVzPTQ=
 
 
+#EXTINF:-1, Eurosport 1 
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 
-
-
-
-
-#EXTINF:-1,BOX NATION
-http://178.18.31.54:8081/liverepeater/201775/chunklist_w1779163474.m3u8?nimblesessionid=1749854&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NTM6MjMgUE0maGFzaF92YWx1ZT1IOG51WUVCSE40cGtCUnB6Z2pSZ2d3PT0mdmFsaWRtaW51dGVzPTQ=
-
-
-
- #EXTINF:-1, EURO SPORT ONE 
-http://185.63.255.112/live/euro11/chunks.m3u8?nimblesessionid=880102.m3u8
-
-#EXTINF:0, Eurosport 1 uk HD
-http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
 #EXTINF:0, Eurosport 2 uk
 http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
 
-
- #EXTINF:-1, MUTV
-http://178.18.31.67:8081/liverepeater/197888/chunklist_w317463164.m3u8?nimblesessionid=271978&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDY6MjcgUE0maGFzaF92YWx1ZT1uZ2hVTm5tbDF2dEdHVTNGRERuTEhnPT0mdmFsaWRtaW51dGVzPTQ=
-
- #EXTINF:-1, CHELSEATV
-http://178.18.30.108:8081/liverepeater/198155/chunklist_w263623551.m3u8?nimblesessionid=2939613&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNi8yMDE1IDI6NDc6NDAgUE0maGFzaF92YWx1ZT0rUFdQMlh6SUV1cUtPcUllcUFxcjN3PT0mdmFsaWRtaW51dGVzPTQ=
 
 #EXTINF:-1, FOX SPORTS
 http://199.180.114.174:8000/foxs.m3u8?Token
 
 
+
 #EXTINF:-1, FOX SPORTS 2
 http://199.180.114.174:8000/foxs2.m3u8?Token
+
 
 #EXTINF:0,Premier sports
 http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
@@ -111,6 +222,32 @@ http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
 
 
 
+#EXTINF:-1,[COLOR red]--- NEWS ---[/COLOR]
+http://0.0.0.0:1234
+
+
+
+
+#EXTINF:-1,BBC World News
+http://wownet.ro/str/0422.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1,CNN
+http://wownet.ro/str/0423.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1,CCTV News
+http://wownet.ro/str/0424.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1,Al Jazeera
+http://wownet.ro/str/0425.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1,Bloomberg
+http://wownet.ro/str/0426.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1,CNBC
+http://wownet.ro/str/0427.m3u8|X-Forwarded-For=81.17.18.50
+
+#EXTINF:-1,sky news
+http://wownet.ro/str/0430.m3u8|X-Forwarded-For=81.17.18.50
 
 
 
@@ -118,35 +255,111 @@ http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
 
 
 
-
-
-
-#EXTINF:-1, REALLY
-http://live308.edge.filmon.com/live/372.low.stream/chunklist_w465471094.m3u8?id=dfeaee20a696d4cb20dd7914ce6e8854fa50a0b6e26dbfb5ab4f2d588830ebb9d68e96625c48c87184f6531376431b4350eadb3515342b562e6b075bb5fa326d09e8bef59eca9c672107626ee59a934927f9d33707de16cd73f2afcb42759854b8906f0dd25b3b47fdd25cc4f28831ccfe9eb99ce1b74b57810e422617b9012242df58de6266a26416150a1785d788eaad447436eca5d64c
-
-#EXTINF:-1, PICK
-http://198.179.31.195/live/689.low.stream/playlist.m3u8?id=975a77f7e69b369b2dd62676a78f05695c7d943f4d9022bd37da99f7bb448796cacabd7daadc3eeb48f5067f2586e940bc798d1021c5c64782bcb40a291b3a7b418c41fdab8bf716918cbdb5beaf63c29126b53553ae9565f8faf3125d6e4a166df3c11a59915ba1fdb1e71d57aa51433e57f52478fced446be3f19af50f0aaf5c5fc9c6c71e9959fc12857c641d06d66d496af3187debc0
-
-
-#EXTINF:-1, TRAVEL CHANNEL
-http://live308.edge.filmon.com/live/842.low.stream/chunklist_w930667265.m3u8?id=428c20d787f631198873a3460599276071c77908ac3140176d76512098cc628c425e7bcdd4a5112d54f21c0d2bb96031fa821c86b5aa3ced17d070ac8701da2603e200544520ed51876589e240e8099c091c4e82f2a53a1b03cd5a17a73900cba06cc45e029ca48ef1269cdb5b9c3c9fbefdd43699bf8f6dd01809f89e4be042b2e6c7151fd223a4335a4dd06937ecb15843c505deef52da
-
-
-
-#EXTINF:-1, BBC WORLD NEWS
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_,828,528,264,.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,[COLOR pink]---not English---[/COLOR]
+http://0.0.0.0:1234
+#EXTM3U
+#EXTINF:0 ,24 kitchen
+http://lag2.tv-mobile.org:22637/udp/231.1.2.17:1234
+#EXTINF:0 ,Animal Planet
+http://lag2.tv-mobile.org:22637/udp/231.2.3.7:1234
+#EXTINF:0 ,AXN
+http://lag2.tv-mobile.org:22637/udp/224.156.69.163:5000
+#EXTINF:0 ,AXN Black
+http://lag2.tv-mobile.org:22637/udp/224.156.69.162:5000
+#EXTINF:0 ,AXN White
+http://lag2.tv-mobile.org:22637/udp/224.156.69.161:5000
+#EXTINF:0 ,BG Music Channel
+http://lag2.tv-mobile.org:22637/udp/224.156.69.87:5000
+#EXTINF:0 ,BOX TV
+http://lag2.tv-mobile.org:22637/udp/239.255.247.7:30000
+#EXTINF:0 ,bTV 16:9
+http://lag2.tv-mobile.org:22637/udp/224.156.69.21:5000
+#EXTINF:0 ,bTV 4:3
+http://lag2.tv-mobile.org:22637/udp/231.1.2.49:1234
+#EXTINF:0 ,Cartoon Network
+http://lag2.tv-mobile.org:22637/udp/231.1.2.36:1234
+#EXTINF:0 ,Cinemax
+http://lag2.tv-mobile.org:22637/udp/231.2.4.7:1234
+#EXTINF:0 ,Cinemax 2
+http://lag2.tv-mobile.org:22637/udp/231.2.4.8:1234
+#EXTINF:0 ,Comedy Central Extra
+http://lag2.tv-mobile.org:22637/udp/231.2.2.26:1234
+#EXTINF:0 ,Diema
+http://lag2.tv-mobile.org:22637/udp/231.1.2.29:1234
+#EXTINF:0 ,Diema Family
+http://lag2.tv-mobile.org:22637/udp/231.1.2.1:1234
+#EXTINF:0 ,Discovery
+http://lag2.tv-mobile.org:22637/udp/231.1.1.20:1234
+#EXTINF:0 ,EK
+http://lag2.tv-mobile.org:22637/udp/231.2.3.35:1234
+#EXTINF:0 ,EKids
+http://lag2.tv-mobile.org:22637/udp/231.2.3.36:1234
+#EXTINF:0 ,Eurosport
+http://lag2.tv-mobile.org:22637/udp/231.2.2.11:1234
+#EXTINF:0 ,Eurosport 2
+http://lag2.tv-mobile.org:22637/udp/231.2.2.10:1234
+#EXTINF:0 ,F+
+http://lag2.tv-mobile.org:22637/udp/233.2.4.20:5000
+#EXTINF:0 ,Fiesta TV
+http://lag2.tv-mobile.org:22637/udp/231.1.2.50:1234
+#EXTINF:0 ,Fine Living
+http://lag2.tv-mobile.org:22637/udp/239.255.247.61:30000
+#EXTINF:0 ,Fishing and Hunting
+http://lag2.tv-mobile.org:22637/udp/231.1.1.15:1234
+#EXTINF:0 ,FOX
+http://lag2.tv-mobile.org:22637/udp/231.1.2.32:1234
+#EXTINF:0 ,FOX Crime
+http://lag2.tv-mobile.org:22637/udp/231.1.2.5:1234
+#EXTINF:0 ,FOX Life
+http://lag2.tv-mobile.org:22637/udp/231.1.2.6:1234
+#EXTINF:0 ,HBO
+http://lag2.tv-mobile.org:22637/udp/231.2.4.5:1234
+#EXTINF:0 ,HBO Comedy
+http://lag2.tv-mobile.org:22637/udp/231.2.4.6:1234
+#EXTINF:0 ,History
+http://lag2.tv-mobile.org:22637/udp/225.0.2.6:20000
+#EXTINF:0 ,Kanal 4
+http://lag2.tv-mobile.org:22637/udp/239.255.247.69:30000
+#EXTINF:0 ,Kino NOVA
+http://lag2.tv-mobile.org:22637/udp/224.156.69.34:5000
+#EXTINF:0 ,Moviestar
+http://lag2.tv-mobile.org:22637/udp/224.156.69.153:5000
+#EXTINF:0 ,NatGeo WILD
+http://lag2.tv-mobile.org:22637/udp/224.156.69.45:5000
+#EXTINF:0 ,National Geographic
+http://lag2.tv-mobile.org:22637/udp/231.1.2.31:1234
+#EXTINF:0 ,NEWS7 4:3
+http://lag2.tv-mobile.org:22637/udp/231.1.2.3:1234
+#EXTINF:0 ,NEWS7 16:9
+http://lag2.tv-mobile.org:22637/udp/224.156.69.53:5000
+#EXTINF:0 ,Nickelodeon
+http://lag2.tv-mobile.org:22637/udp/231.2.2.27:1234
+#EXTINF:0 ,NOVA
+http://lag2.tv-mobile.org:22637/udp/231.1.2.26:1234
+#EXTINF:0 ,Super7
+http://lag2.tv-mobile.org:22637/udp/231.1.2.23:1234
+#EXTINF:0 ,The Voice
+http://lag2.tv-mobile.org:22637/udp/231.1.2.28:1234
+#EXTINF:0 ,TLC
+http://lag2.tv-mobile.org:22637/udp/231.1.1.21:1234
+#EXTINF:0 ,Travel Channel
+http://lag2.tv-mobile.org:22637/udp/231.2.2.13:1234
+#EXTINF:0 ,TV1000
+http://lag2.tv-mobile.org:22637/udp/231.2.2.19:1234
+#EXTINF:0 ,TV7 4:3
+http://lag2.tv-mobile.org:22637/udp/231.1.2.22:1234
+#EXTINF:0 ,TV7 16:9
+http://lag2.tv-mobile.org:22637/udp/224.156.69.51:5000
+#EXTINF:0 ,TVT
+http://lag2.tv-mobile.org:22637/udp/224.156.69.78:5000
+#EXTINF:0 ,Viasat Explorer
+http://lag2.tv-mobile.org:22637/udp/231.2.2.16:1234
+#EXTINF:0 ,Viasat History
+http://lag2.tv-mobile.org:22637/udp/231.2.2.17:1234
+#EXTINF:0 ,Viasat Nature
+http://lag2.tv-mobile.org:22637/udp/231.2.2.18:1234
+#EXTINF:0 ,VTK
+http://lag2.tv-mobile.org:22637/udp/231.2.3.9:1234
 
 
 
