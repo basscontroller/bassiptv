@@ -1,291 +1,145 @@
 #EXTM3U
-
-#EXTINF:-1,[COLOR yellow]--- UK TV ---[/COLOR]
-http://0.0.0.0:1234
-
-
-#EXTINF:-1,BBC One London 
-http://82.135.224.134:80/udp/239.100.3.1:1234
-
-#EXTINF:-1,BBC Two HD
-http://wownet.ro/str/0404.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, ITV ONE
-http://wownet.ro/str/0409.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, iTV 2
-http://wownet.ro/str/0411.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, iTV 3
-http://wownet.ro/str/0412.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, iTV 4
-http://wownet.ro/str/0413.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1,Channel 4 HD
-http://wownet.ro/str/0414.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1, Channel 5
-http://wownet.ro/str/0416.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1,BBC Three 
-http://82.135.224.134:80/udp/239.100.3.4:1234
-#EXTINF:-1,BBC Four 
-http://82.135.224.134:80/udp/239.100.3.5:1234
-#EXTINF:-1, London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:-1,More4
-http://wownet.ro/str/0417.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1,E4
-http://wownet.ro/str/0418.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1,FASTION TV
-http://wownet.ro/str/0419.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1,TRAVELchannel
-http://wownet.ro/str/0420.m3u8|X-Forwarded-For=81.17.18.50
-
-
-
-
-#EXTINF:-1,[COLOR yellow]--- UK TV2 COMING SOON ---[/COLOR]
-http://0.0.0.0:1234
-
-
-
-
-#EXTINF:-1,[COLOR green]--- sports ---[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:0, Eurosport 1 uk
-http://195.154.226.186:1935/livepp7/vesplsh/playlist.m3u8
-
-#EXTINF:0, Eurosport 2 uk
-http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
-
-#EXTINF:0, SkySport 1
-http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
-
-
-
-
-#EXTINF:0, SkySport 3
-http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
-
-#EXTINF:0, SkySport 4
-http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
-
-#EXTINF:0, SkySport 5
-http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
-
-#EXTINF:0, SkySport F1
-http://195.154.226.186:1935/livepp7/vskysf1lsh/playlist.m3u8
-
-
-#EXTINF:-1, BT SPORT ONE
-http://a1.aliez.biz:8080/hls/streama36241/index.m3u8
-
-
-#EXTINF:0, BT Sport 2
-http://195.154.226.186:1935/livepp7/btsports2lsh/playlist.m3u8
-
-#EXTINF:0, ESPN UK
-http://195.154.226.186:1935/livepp7/espnuklsh/playlist.m3u8
-
-
-
-#EXTINF:-1, Eurosport 1 
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-
-#EXTINF:0, Eurosport 2 uk
-http://195.154.226.186:1935/livepp7/vesp2lsh/playlist.m3u8
-
-
-#EXTINF:-1, FOX SPORTS
-http://199.180.114.174:8000/foxs.m3u8?Token
-
-
-
-#EXTINF:-1, FOX SPORTS 2
-http://199.180.114.174:8000/foxs2.m3u8?Token
-
-
-#EXTINF:0,Premier sports
-http://195.154.226.186:1935/livepp7/vpremsplsh/playlist.m3u8
-
-#EXTM3U
-#EXTINF:-1, beIN Sports 1HD
-http://50.7.69.138:9080/hls/bein1hd.m3u8
-#EXTINF:-1, beIN Sports 2HD
-http://50.7.69.138:9080/hls/bein2hd.m3u8
-#EXTINF:-1, beIN Sports 3HD
-http://50.7.69.138:9080/hls/bein3hd.m3u8
-#EXTINF:-1, beIN Sports 4HD
-http://50.7.69.138:9080/hls/bein4hd.m3u8
-#EXTINF:-1, beIN Sports 5HD
-http://50.7.69.138:9080/hls/bein5hd.m3u8
-#EXTINF:-1, beIN Sports 6HD
-http://50.7.69.138:9080/hls/bein6hd.m3u8
-#EXTINF:-1, beIN Sports 7HD
-http://50.7.69.138:9080/hls/bein7hd.m3u8
-#EXTINF:-1, beIN Sports 9HD
-http://50.7.69.138:9080/hls/bein8hd.m3u8
-#EXTINF:-1, beIN Sports 9HD
-http://50.7.69.138:9080/hls/bein9hd.m3u8
-#EXTINF:-1, beIN Sports 10HD
-http://50.7.69.138:9080/hls/bein10hd.m3u8
-
-
-
-
-
-#EXTINF:-1,[COLOR red]--- NEWS ---[/COLOR]
-http://0.0.0.0:1234
-
-
-
-
-#EXTINF:-1,BBC World News
-http://wownet.ro/str/0422.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1,CNN
-http://wownet.ro/str/0423.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1,CCTV News
-http://wownet.ro/str/0424.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1,Al Jazeera
-http://wownet.ro/str/0425.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1,Bloomberg
-http://wownet.ro/str/0426.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1,CNBC
-http://wownet.ro/str/0427.m3u8|X-Forwarded-For=81.17.18.50
-
-#EXTINF:-1,sky news
-http://wownet.ro/str/0430.m3u8|X-Forwarded-For=81.17.18.50
-
-
-
-
-
-
-
-#EXTINF:-1,[COLOR pink]---not English---[/COLOR]
-http://0.0.0.0:1234
-#EXTM3U
-#EXTINF:0 ,24 kitchen
-http://lag2.tv-mobile.org:22637/udp/231.1.2.17:1234
-#EXTINF:0 ,Animal Planet
-http://lag2.tv-mobile.org:22637/udp/231.2.3.7:1234
-#EXTINF:0 ,AXN
-http://lag2.tv-mobile.org:22637/udp/224.156.69.163:5000
-#EXTINF:0 ,AXN Black
-http://lag2.tv-mobile.org:22637/udp/224.156.69.162:5000
-#EXTINF:0 ,AXN White
-http://lag2.tv-mobile.org:22637/udp/224.156.69.161:5000
-#EXTINF:0 ,BG Music Channel
-http://lag2.tv-mobile.org:22637/udp/224.156.69.87:5000
-#EXTINF:0 ,BOX TV
-http://lag2.tv-mobile.org:22637/udp/239.255.247.7:30000
-#EXTINF:0 ,bTV 16:9
-http://lag2.tv-mobile.org:22637/udp/224.156.69.21:5000
-#EXTINF:0 ,bTV 4:3
-http://lag2.tv-mobile.org:22637/udp/231.1.2.49:1234
-#EXTINF:0 ,Cartoon Network
-http://lag2.tv-mobile.org:22637/udp/231.1.2.36:1234
-#EXTINF:0 ,Cinemax
-http://lag2.tv-mobile.org:22637/udp/231.2.4.7:1234
-#EXTINF:0 ,Cinemax 2
-http://lag2.tv-mobile.org:22637/udp/231.2.4.8:1234
-#EXTINF:0 ,Comedy Central Extra
-http://lag2.tv-mobile.org:22637/udp/231.2.2.26:1234
-#EXTINF:0 ,Diema
-http://lag2.tv-mobile.org:22637/udp/231.1.2.29:1234
-#EXTINF:0 ,Diema Family
-http://lag2.tv-mobile.org:22637/udp/231.1.2.1:1234
-#EXTINF:0 ,Discovery
-http://lag2.tv-mobile.org:22637/udp/231.1.1.20:1234
-#EXTINF:0 ,EK
-http://lag2.tv-mobile.org:22637/udp/231.2.3.35:1234
-#EXTINF:0 ,EKids
-http://lag2.tv-mobile.org:22637/udp/231.2.3.36:1234
-#EXTINF:0 ,Eurosport
-http://lag2.tv-mobile.org:22637/udp/231.2.2.11:1234
-#EXTINF:0 ,Eurosport 2
-http://lag2.tv-mobile.org:22637/udp/231.2.2.10:1234
-#EXTINF:0 ,F+
-http://lag2.tv-mobile.org:22637/udp/233.2.4.20:5000
-#EXTINF:0 ,Fiesta TV
-http://lag2.tv-mobile.org:22637/udp/231.1.2.50:1234
-#EXTINF:0 ,Fine Living
-http://lag2.tv-mobile.org:22637/udp/239.255.247.61:30000
-#EXTINF:0 ,Fishing and Hunting
-http://lag2.tv-mobile.org:22637/udp/231.1.1.15:1234
-#EXTINF:0 ,FOX
-http://lag2.tv-mobile.org:22637/udp/231.1.2.32:1234
-#EXTINF:0 ,FOX Crime
-http://lag2.tv-mobile.org:22637/udp/231.1.2.5:1234
-#EXTINF:0 ,FOX Life
-http://lag2.tv-mobile.org:22637/udp/231.1.2.6:1234
-#EXTINF:0 ,HBO
-http://lag2.tv-mobile.org:22637/udp/231.2.4.5:1234
-#EXTINF:0 ,HBO Comedy
-http://lag2.tv-mobile.org:22637/udp/231.2.4.6:1234
-#EXTINF:0 ,History
-http://lag2.tv-mobile.org:22637/udp/225.0.2.6:20000
-#EXTINF:0 ,Kanal 4
-http://lag2.tv-mobile.org:22637/udp/239.255.247.69:30000
-#EXTINF:0 ,Kino NOVA
-http://lag2.tv-mobile.org:22637/udp/224.156.69.34:5000
-#EXTINF:0 ,Moviestar
-http://lag2.tv-mobile.org:22637/udp/224.156.69.153:5000
-#EXTINF:0 ,NatGeo WILD
-http://lag2.tv-mobile.org:22637/udp/224.156.69.45:5000
-#EXTINF:0 ,National Geographic
-http://lag2.tv-mobile.org:22637/udp/231.1.2.31:1234
-#EXTINF:0 ,NEWS7 4:3
-http://lag2.tv-mobile.org:22637/udp/231.1.2.3:1234
-#EXTINF:0 ,NEWS7 16:9
-http://lag2.tv-mobile.org:22637/udp/224.156.69.53:5000
-#EXTINF:0 ,Nickelodeon
-http://lag2.tv-mobile.org:22637/udp/231.2.2.27:1234
-#EXTINF:0 ,NOVA
-http://lag2.tv-mobile.org:22637/udp/231.1.2.26:1234
-#EXTINF:0 ,Super7
-http://lag2.tv-mobile.org:22637/udp/231.1.2.23:1234
-#EXTINF:0 ,The Voice
-http://lag2.tv-mobile.org:22637/udp/231.1.2.28:1234
-#EXTINF:0 ,TLC
-http://lag2.tv-mobile.org:22637/udp/231.1.1.21:1234
-#EXTINF:0 ,Travel Channel
-http://lag2.tv-mobile.org:22637/udp/231.2.2.13:1234
-#EXTINF:0 ,TV1000
-http://lag2.tv-mobile.org:22637/udp/231.2.2.19:1234
-#EXTINF:0 ,TV7 4:3
-http://lag2.tv-mobile.org:22637/udp/231.1.2.22:1234
-#EXTINF:0 ,TV7 16:9
-http://lag2.tv-mobile.org:22637/udp/224.156.69.51:5000
-#EXTINF:0 ,TVT
-http://lag2.tv-mobile.org:22637/udp/224.156.69.78:5000
-#EXTINF:0 ,Viasat Explorer
-http://lag2.tv-mobile.org:22637/udp/231.2.2.16:1234
-#EXTINF:0 ,Viasat History
-http://lag2.tv-mobile.org:22637/udp/231.2.2.17:1234
-#EXTINF:0 ,Viasat Nature
-http://lag2.tv-mobile.org:22637/udp/231.2.2.18:1234
-#EXTINF:0 ,VTK
-http://lag2.tv-mobile.org:22637/udp/231.2.3.9:1234
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,US: Animal Planet HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1562.m3u8
+#EXTINF:-1,US: ABC NEWS HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1297.m3u8
+#EXTINF:-1,US: Bein Sports US HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1295.m3u8
+#EXTINF:-1,US: Discovery Channel HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1190.m3u8
+#EXTINF:-1,US: ESPN HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1296.m3u8
+#EXTINF:-1,US: Fox Sports 1 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1037.m3u8
+#EXTINF:-1,US: Fox Sports 2 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1042.m3u8
+#EXTINF:-1,US: NBA TV HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1512.m3u8
+#EXTINF:-1,US: NBC Sports Network HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1307.m3u8
+#EXTINF:-1,US: TSN 1 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1303.m3u8
+#EXTINF:-1,US: TSN 2 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1302.m3u8
+#EXTINF:-1,US: TSN 3 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1299.m3u8
+#EXTINF:-1,US: TSN 4 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1301.m3u8
+#EXTINF:-1,US: TSN 5 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1300.m3u8
+#EXTINF:-1,UK: ITV1 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/884.m3u8
+#EXTINF:-1,UK: ITV2 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/885.m3u8
+#EXTINF:-1,UK: ITV3 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/886.m3u8
+#EXTINF:-1,UK: ITV4 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/887.m3u8
+#EXTINF:-1,UK: BBC One HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/859.m3u8
+#EXTINF:-1,UK: BBC Two HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/860.m3u8
+#EXTINF:-1,UK: BBC Three HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/861.m3u8
+#EXTINF:-1,UK: BBC Four HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/862.m3u8
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/910.m3u8
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/911.m3u8
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/912.m3u8
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/909.m3u8
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/913.m3u8
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/914.m3u8
+#EXTINF:-1,UK: Sky One HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/908.m3u8
+#EXTINF:-1,UK: Sky News HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/907.m3u8
+#EXTINF:-1,UK: Sky Movies Select HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/906.m3u8
+#EXTINF:-1,UK: Sky Movies Action HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/898.m3u8
+#EXTINF:-1,UK: Sky Movies Family HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/902.m3u8
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/901.m3u8
+#EXTINF:-1,UK: Sky Movies Disney HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/900.m3u8
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/899.m3u8
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/904.m3u8
+#EXTINF:-1,UK: Sky Movies Modern Great HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/903.m3u8
+#EXTINF:-1,UK: Sky Movies Sci-Fi&Horror HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/905.m3u8
+#EXTINF:-1,UK: SyFy HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/918.m3u8
+#EXTINF:-1,UK: Sky Art 1
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/920.m3u8
+#EXTINF:-1,UK: Sky Art 2
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/921.m3u8
+#EXTINF:-1,UK: Sky Living HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/897.m3u8
+#EXTINF:-1,UK: Sky Two HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/915.m3u8
+#EXTINF:-1,UK: Sky Atlantic HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/896.m3u8
+#EXTINF:-1,UK: Sky Sports News HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1237.m3u8
+#EXTINF:-1,UK: MUTV HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1670.m3u8
+#EXTINF:-1,UK: Chelsea FC HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1672.m3u8
+#EXTINF:-1,UK: Box Nation HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/863.m3u8
+#EXTINF:-1,UK: BTSports 1 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/864.m3u8
+#EXTINF:-1,UK: BTSports 2 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/865.m3u8
+#EXTINF:-1,UK: Racing UK HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/892.m3u8
+#EXTINF:-1,UK: EuroSport 1 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/879.m3u8
+#EXTINF:-1,UK: Premier Sports HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/891.m3u8
+#EXTINF:-1,UK: Setanta Sports Ireland HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/895.m3u8
+#EXTINF:-1,UK: RTE Two HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/894.m3u8
+#EXTINF:-1,UK: RTE One HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/893.m3u8
+#EXTINF:-1,UK: BT Sport Europe HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/888.m3u8
+#EXTINF:-1,UK : E4
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1469.m3u8
+#EXTINF:-1,UK: Film 4 HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/881.m3u8
+#EXTINF:-1,UK: Channel4
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/866.m3u8
+#EXTINF:-1,UK: Nat Geo HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/889.m3u8
+#EXTINF:-1,UK: Nat Geo Wild HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/890.m3u8
+#EXTINF:-1,UK: True Movies 1
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1112.m3u8
+#EXTINF:-1,UK: History HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/883.m3u8
+#EXTINF:-1,UK: Nicktoons HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1633.m3u8
+#EXTINF:-1,UK: Nickelodeon HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/1632.m3u8
+#EXTINF:-1,UK: Disney Junior HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/874.m3u8
+#EXTINF:-1,UK: Discovery HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/870.m3u8
+#EXTINF:-1,UK: Discovery History HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/871.m3u8
+K: Discovery HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/870.ts.m3u8
+#EXTINF:-1,UK: Discovery History HD
+http://iptv.euroremix.com:8000/live/TEST74/alexjoe04@gmail.com/871.ts.m3u8
