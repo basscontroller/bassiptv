@@ -144,3 +144,314 @@ http://stream.balticbox.tv:8080/IDUK/mono.m3u8?token=asg!1dkhasg!54754
 #EXTINF:-1,Dave
 http://stream.balticbox.tv:8080/dave/mono.m3u8?token=asg!1dkhasg!54754
 #EXT-X-ENDLIST
+
+#EXTINF:-1, BT Sport 1 
+http://46.28.55.160:1935/iptv/bt1/playlist.m3u8 
+#EXTINF:-1, BT Sport 2 
+http://46.28.55.160:1935/iptv/bt2/playlist.m3u8  
+#EXTINF:0,USA: TSN 1 USA
+http://stream-full.selfip.com:8000/live/jack/jack/303.ts
+#EXTINF:0,USA: TSN 2 USA
+http://stream-full.selfip.com:8000/live/jack/jack/304.ts
+#EXTINF:0,USA: TSN 3 USA
+http://stream-full.selfip.com:8000/live/jack/jack/305.ts
+#EXTINF:0,USA: TSN 4 USA
+http://stream-full.selfip.com:8000/live/jack/jack/306.ts
+#EXTINF:0,USA: TSN 5 USA
+http://stream-full.selfip.com:8000/live/jack/jack/307.ts
+#EXTINF:0,USA : Fox Sports 1 HD
+http://stream-full.selfip.com:8000/live/jack/jack/308.ts
+#EXTINF:0,USA : Fox Sports 2 HD
+http://stream-full.selfip.com:8000/live/jack/jack/309.ts
+#EXTINF:0,USA : NFL HD
+http://stream-full.selfip.com:8000/live/jack/jack/578.ts
+#EXTINF:0,USA : NBC HD
+http://stream-full.selfip.com:8000/live/jack/jack/577.ts
+#EXTINF:0,USA: Tennis
+http://stream-full.selfip.com:8000/live/jack/jack/561.ts
+#EXTINF:0,USA: NATGEO HD
+http://stream-full.selfip.com:8000/live/jack/jack/563.ts
+#EXTINF:0,USA
+http://stream-full.selfip.com:8000/live/jack/jack/315.ts
+#EXTINF:0,USA: DISCOVERY
+http://stream-full.selfip.com:8000/live/jack/jack/559.ts
+#EXTINF:0,USA : HIFI HD
+http://stream-full.selfip.com:8000/live/jack/jack/579.ts
+#EXTINF:0,USA : FOX HD
+http://stream-full.selfip.com:8000/live/jack/jack/576.ts
+#EXTINF:0,USA : CBS HD
+http://stream-full.selfip.com:8000/live/jack/jack/574.ts
+#EXTINF:0,USA : CBC HD
+http://stream-full.selfip.com:8000/live/jack/jack/575.ts
+#EXTINF:0,USA: LMN
+http://stream-full.selfip.com:8000/live/jack/jack/560.ts
+#EXTINF:0,USA: BRAVO HD
+http://stream-full.selfip.com:8000/live/jack/jack/562.ts
+#EXTINF:0,USA : CINEMAX HD
+http://stream-full.selfip.com:8000/live/jack/jack/571.ts
+#EXTINF:0,USA : HBO COMEDY
+http://stream-full.selfip.com:8000/live/jack/jack/572.ts
+#EXTINF:0,USA : WIPX HD
+http://stream-full.selfip.com:8000/live/jack/jack/573.ts
+#EXTINF:0,USA: University of California TV
+http://stream-full.selfip.com:8000/live/jack/jack/366.ts
+#EXTINF:0,USA: The Florida Channel
+http://stream-full.selfip.com:8000/live/jack/jack/365.ts
+#EXTINF:0,USA:Cartoon Network
+http://stream-full.selfip.com:8000/live/jack/jack/388.ts
+#EXTINF:0,USA: Vevo1 HD
+http://stream-full.selfip.com:8000/live/jack/jack/389.ts
+#EXTINF:0,USA: Vevo2 HD
+http://stream-full.selfip.com:8000/live/jack/jack/390.ts
+#EXTINF:0,USA: Vevo3 HD
+http://stream-full.selfip.com:8000/live/jack/jack/391.ts
+#EXTINF:0,****************UK****************
+http://stream-full.selfip.com:8000/live/jack/jack/72.ts
+#EXTINF:0,UK : E4
+http://stream-full.selfip.com:8000/live/jack/jack/116.ts
+#EXTINF:0,UK : Dave
+http://stream-full.selfip.com:8000/live/jack/jack/120.ts
+#EXTINF:0,UK: Drama
+http://stream-full.selfip.com:8000/live/jack/jack/278.ts
+#EXTINF:0,UK : Channel 4
+http://stream-full.selfip.com:8000/live/jack/jack/118.ts
+#EXTINF:0,UK : Channel 5
+http://stream-full.selfip.com:8000/live/jack/jack/119.ts
+#EXTINF:0,UK: Gold
+http://stream-full.selfip.com:8000/live/jack/jack/89.ts
+#EXTINF:0,UK: Five UK
+http://stream-full.selfip.com:8000/live/jack/jack/88.ts
+#EXTINF:0,UK : TV3
+http://stream-full.selfip.com:8000/live/jack/jack/113.ts
+#EXTINF:0,UK : TG4
+http://stream-full.selfip.com:8000/live/jack/jack/112.ts
+#EXTINF:0,UK : RTE 2
+http://stream-full.selfip.com:8000/live/jack/jack/115.ts
+#EXTINF:0,UK : RTE 1
+http://stream-full.selfip.com:8000/live/jack/jack/114.ts
+#EXTINF:0,UK : quest
+http://stream-full.selfip.com:8000/live/jack/jack/141.ts
+#EXTINF:0,UK : Dmax
+http://stream-full.selfip.com:8000/live/jack/jack/126.ts
+#EXTINF:0,UK: watch
+http://stream-full.selfip.com:8000/live/jack/jack/335.ts
+#EXTINF:0,UK: universal
+http://stream-full.selfip.com:8000/live/jack/jack/344.ts
+#EXTINF:0,UK: really
+http://stream-full.selfip.com:8000/live/jack/jack/336.ts
+#EXTINF:0,UK: picktv
+http://stream-full.selfip.com:8000/live/jack/jack/342.ts
+#EXTINF:0,UK: lifetime
+http://stream-full.selfip.com:8000/live/jack/jack/338.ts
+#EXTINF:0,UK: fox
+http://stream-full.selfip.com:8000/live/jack/jack/340.ts
+#EXTINF:0,UK: fox 1
+http://stream-full.selfip.com:8000/live/jack/jack/341.ts
+#EXTINF:0,UK: Film 4
+http://stream-full.selfip.com:8000/live/jack/jack/349.ts
+#EXTINF:0,UK: alibi
+http://stream-full.selfip.com:8000/live/jack/jack/339.ts
+#EXTINF:0,UK : 5 Star
+http://stream-full.selfip.com:8000/live/jack/jack/345.ts
+#EXTINF:0,UK : Sky Art 1
+http://stream-full.selfip.com:8000/live/jack/jack/117.ts
+#EXTINF:0,UK: sky One
+http://stream-full.selfip.com:8000/live/jack/jack/80.ts
+#EXTINF:0,UK: sky one plus
+http://stream-full.selfip.com:8000/live/jack/jack/130.ts
+#EXTINF:0,UK : Sky Two
+http://stream-full.selfip.com:8000/live/jack/jack/110.ts
+#EXTINF:0,UK : SkyEmotion
+http://stream-full.selfip.com:8000/live/jack/jack/111.ts
+#EXTINF:0,UK: skyliving
+http://stream-full.selfip.com:8000/live/jack/jack/343.ts
+#EXTINF:0,UK: sky news
+http://stream-full.selfip.com:8000/live/jack/jack/334.ts
+#EXTINF:0,UK: CBS DRAMA
+http://stream-full.selfip.com:8000/live/jack/jack/275.ts
+#EXTINF:0,UK: sky Movies Action
+http://stream-full.selfip.com:8000/live/jack/jack/75.ts
+#EXTINF:0,UK: sky Movies Atlantic
+http://stream-full.selfip.com:8000/live/jack/jack/97.ts
+#EXTINF:0,UK: sky Movies Comedy
+http://stream-full.selfip.com:8000/live/jack/jack/77.ts
+#EXTINF:0,UK: sky Movies Family
+http://stream-full.selfip.com:8000/live/jack/jack/79.ts
+#EXTINF:0,UK: sky Movies Disney
+http://stream-full.selfip.com:8000/live/jack/jack/78.ts
+#EXTINF:0,UK : Sky Movies Thriller
+http://stream-full.selfip.com:8000/live/jack/jack/109.ts
+#EXTINF:0,uk : sky Movies drama
+http://stream-full.selfip.com:8000/live/jack/jack/157.ts
+#EXTINF:0,uk : sky Movies sci-fi & horrore
+http://stream-full.selfip.com:8000/live/jack/jack/154.ts
+#EXTINF:0,UK: sky Movies premier
+http://stream-full.selfip.com:8000/live/jack/jack/155.ts
+#EXTINF:0,UK: sky Movies premier 1
+http://stream-full.selfip.com:8000/live/jack/jack/156.ts
+#EXTINF:0,UK: sky movies modern great
+http://stream-full.selfip.com:8000/live/jack/jack/158.ts
+#EXTINF:0,UK: sky movies showcase
+http://stream-full.selfip.com:8000/live/jack/jack/175.ts
+#EXTINF:0,UK: sky movies select
+http://stream-full.selfip.com:8000/live/jack/jack/148.ts
+#EXTINF:0,UK: comedy central
+http://stream-full.selfip.com:8000/live/jack/jack/149.ts
+#EXTINF:0,UK: comedy central +1
+http://stream-full.selfip.com:8000/live/jack/jack/173.ts
+#EXTINF:0,UK: comedy central extra
+http://stream-full.selfip.com:8000/live/jack/jack/172.ts
+#EXTINF:0,UK: comedy central extra +1
+http://stream-full.selfip.com:8000/live/jack/jack/174.ts
+#EXTINF:0,UK: True movies1
+http://stream-full.selfip.com:8000/live/jack/jack/150.ts
+#EXTINF:0,UK: True movies2
+http://stream-full.selfip.com:8000/live/jack/jack/151.ts
+#EXTINF:0,UK: True Entertainemant
+http://stream-full.selfip.com:8000/live/jack/jack/152.ts
+#EXTINF:0,UK: True drama
+http://stream-full.selfip.com:8000/live/jack/jack/153.ts
+#EXTINF:0,uk : Movies 4 men
+http://stream-full.selfip.com:8000/live/jack/jack/183.ts
+#EXTINF:0,uk: Sony movies
+http://stream-full.selfip.com:8000/live/jack/jack/181.ts
+#EXTINF:0,UK: ITV 1
+http://stream-full.selfip.com:8000/live/jack/jack/90.ts
+#EXTINF:0,UK: ITV 2
+http://stream-full.selfip.com:8000/live/jack/jack/91.ts
+#EXTINF:0,UK: ITV 3
+http://stream-full.selfip.com:8000/live/jack/jack/92.ts
+#EXTINF:0,UK: ITV 4
+http://stream-full.selfip.com:8000/live/jack/jack/93.ts
+#EXTINF:0,UK: BBC 1
+http://stream-full.selfip.com:8000/live/jack/jack/98.ts
+#EXTINF:0,UK: BBC 2
+http://stream-full.selfip.com:8000/live/jack/jack/129.ts
+#EXTINF:0,UK: BBC 3
+http://stream-full.selfip.com:8000/live/jack/jack/81.ts
+#EXTINF:0,UK: BBC 4
+http://stream-full.selfip.com:8000/live/jack/jack/82.ts
+#EXTINF:0,UK : Sky Sport 1
+http://stream-full.selfip.com:8000/live/jack/jack/102.ts
+#EXTINF:0,UK: Sky Sports 1 HD
+http://stream-full.selfip.com:8000/live/jack/jack/131.ts
+#EXTINF:0,UK : Sky Sport 2
+http://stream-full.selfip.com:8000/live/jack/jack/103.ts
+#EXTINF:0,UK: Sky Sports 2 HD
+http://stream-full.selfip.com:8000/live/jack/jack/132.ts
+#EXTINF:0,UK : Sky Sport 3
+http://stream-full.selfip.com:8000/live/jack/jack/104.ts
+#EXTINF:0,UK: Sky Sports 3 HD
+http://stream-full.selfip.com:8000/live/jack/jack/133.ts
+#EXTINF:0,UK : Sky Sport 4
+http://stream-full.selfip.com:8000/live/jack/jack/105.ts
+#EXTINF:0,UK: Sky Sports 4 HD
+http://stream-full.selfip.com:8000/live/jack/jack/134.ts
+#EXTINF:0,UK : Sky Sport 5
+http://stream-full.selfip.com:8000/live/jack/jack/106.ts
+#EXTINF:0,UK: Sky Sports 5 HD
+http://stream-full.selfip.com:8000/live/jack/jack/135.ts
+#EXTINF:0,UK : Sky Sport News
+http://stream-full.selfip.com:8000/live/jack/jack/107.ts
+#EXTINF:0,UK : BT Sport 1 HD
+http://stream-full.selfip.com:8000/live/jack/jack/585.ts
+#EXTINF:0,UK: BT Sports 1
+http://stream-full.selfip.com:8000/live/jack/jack/83.ts
+#EXTINF:0,UK : BT Sport 2 HD
+http://stream-full.selfip.com:8000/live/jack/jack/586.ts
+#EXTINF:0,UK: BT Sports 2
+http://stream-full.selfip.com:8000/live/jack/jack/84.ts
+#EXTINF:0,UK: BT sport europe
+http://stream-full.selfip.com:8000/live/jack/jack/358.ts
+#EXTINF:0,UK: BT sport extra
+http://stream-full.selfip.com:8000/live/jack/jack/160.ts
+#EXTINF:0,UK: BT sport Mosaic
+http://stream-full.selfip.com:8000/live/jack/jack/161.ts
+#EXTINF:0,UK : setanta ireland
+http://stream-full.selfip.com:8000/live/jack/jack/144.ts
+#EXTINF:0,UK: manchester united TV
+http://stream-full.selfip.com:8000/live/jack/jack/159.ts
+#EXTINF:0,UK: Chelsea FC
+http://stream-full.selfip.com:8000/live/jack/jack/85.ts
+#EXTINF:0,uk : liverpool FC
+http://stream-full.selfip.com:8000/live/jack/jack/162.ts
+#EXTINF:0,UK: Eurosport britich
+http://stream-full.selfip.com:8000/live/jack/jack/87.ts
+#EXTINF:0,UK: ESPN
+http://stream-full.selfip.com:8000/live/jack/jack/86.ts
+#EXTINF:0,UK: Sports Tonight UK
+http://stream-full.selfip.com:8000/live/jack/jack/74.ts
+#EXTINF:0,UK: Sports Night HD
+http://stream-full.selfip.com:8000/live/jack/jack/73.ts
+#EXTINF:0,UK: Sky sport F1
+http://stream-full.selfip.com:8000/live/jack/jack/187.ts
+#EXTINF:0,UK: Racing UK
+http://stream-full.selfip.com:8000/live/jack/jack/96.ts
+#EXTINF:0,UK: Premiere Sport
+http://stream-full.selfip.com:8000/live/jack/jack/348.ts
+#EXTINF:0,UK: Box Nation HD
+http://stream-full.selfip.com:8000/live/jack/jack/347.ts
+#EXTINF:0,UK : CTH STADIUM HD1
+http://stream-full.selfip.com:8000/live/jack/jack/580.ts
+#EXTINF:0,UK : CTH STADIUM HD2
+http://stream-full.selfip.com:8000/live/jack/jack/581.ts
+#EXTINF:0,UK : CTH STADIUM HD3
+http://stream-full.selfip.com:8000/live/jack/jack/582.ts
+#EXTINF:0,UK : CTH STADIUM HD4
+http://stream-full.selfip.com:8000/live/jack/jack/583.ts
+#EXTINF:0,UK : CTH STADIUM HD5
+http://stream-full.selfip.com:8000/live/jack/jack/584.ts
+#EXTINF:0,UK: MTV1
+http://stream-full.selfip.com:8000/live/jack/jack/165.ts
+#EXTINF:0,UK: MTV Summer
+http://stream-full.selfip.com:8000/live/jack/jack/169.ts
+#EXTINF:0,UK: MTV Rocks
+http://stream-full.selfip.com:8000/live/jack/jack/166.ts
+#EXTINF:0,UK: MTV Dance
+http://stream-full.selfip.com:8000/live/jack/jack/170.ts
+#EXTINF:0,UK: MTV Base
+http://stream-full.selfip.com:8000/live/jack/jack/168.ts
+#EXTINF:0,uk : good food chanelle
+http://stream-full.selfip.com:8000/live/jack/jack/171.ts
+#EXTINF:0,UK: animal planet+1
+http://stream-full.selfip.com:8000/live/jack/jack/136.ts
+#EXTINF:0,UK : Nat Geo
+http://stream-full.selfip.com:8000/live/jack/jack/127.ts
+#EXTINF:0,UK : Nat Geo +1
+http://stream-full.selfip.com:8000/live/jack/jack/139.ts
+#EXTINF:0,UK : Nat Geo Wild
+http://stream-full.selfip.com:8000/live/jack/jack/128.ts
+#EXTINF:0,UK : History
+http://stream-full.selfip.com:8000/live/jack/jack/101.ts
+#EXTINF:0,UK : Discovery
+http://stream-full.selfip.com:8000/live/jack/jack/121.ts
+#EXTINF:0,UK : Discovery turbo
+http://stream-full.selfip.com:8000/live/jack/jack/138.ts
+#EXTINF:0,UK : Discovery Science
+http://stream-full.selfip.com:8000/live/jack/jack/124.ts
+#EXTINF:0,UK : Discovery Investigation
+http://stream-full.selfip.com:8000/live/jack/jack/123.ts
+#EXTINF:0,UK : Discovery Investigation +1
+http://stream-full.selfip.com:8000/live/jack/jack/140.ts
+#EXTINF:0,UK : Discovery home
+http://stream-full.selfip.com:8000/live/jack/jack/137.ts
+#EXTINF:0,UK : Discovery History
+http://stream-full.selfip.com:8000/live/jack/jack/142.ts
+#EXTINF:0,uk: discovry Shed
+http://stream-full.selfip.com:8000/live/jack/jack/180.ts
+#EXTINF:0,UK:Cartoon Network
+http://stream-full.selfip.com:8000/live/jack/jack/551.ts
+#EXTINF:0,UK: Nicktoons
+http://stream-full.selfip.com:8000/live/jack/jack/95.ts
+#EXTINF:0,UK: Nickelodeon
+http://stream-full.selfip.com:8000/live/jack/jack/94.ts
+#EXTINF:0,uk: nick junior+1
+http://stream-full.selfip.com:8000/live/jack/jack/179.ts
+#EXTINF:0,uk: nick junior
+http://stream-full.selfip.com:8000/live/jack/jack/178.ts
+#EXTINF:0,uk : disney XD
+http://stream-full.selfip.com:8000/live/jack/jack/147.ts
+#EXTINF:0,UK : disney junior +
+http://stream-full.selfip.com:8000/live/jack/jack/145.ts
+#EXTINF:0,UK : Disney Junior
+http://stream-full.selfip.com:8000/live/jack/jack/125.ts
