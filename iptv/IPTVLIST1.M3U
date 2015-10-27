@@ -47,3 +47,393 @@ http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8
 http://195.154.226.186:1935/liveedge/espnuklsh/playlist.m3u8
 #EXTINF:0, Premier sports
 http://195.154.226.186:1935/liveedge/vpremsplsh/playlist.m3u8
+
+
+#EXTINF:-1,UK: Pick TV
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/918
+
+.ts
+#EXTINF:-1,UK: National Geographic Wild
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/905
+
+.ts
+#EXTINF:-1,UK: National Geographic Channel
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/904
+
+.ts
+#EXTINF:-1,UK: Movies 4 Men +1
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/902
+
+.ts
+#EXTINF:-1,UK: Movies 4 Men
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/903
+
+.ts
+#EXTINF:-1,UK: More 4
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/901
+
+.ts
+#EXTINF:-1,UK: Liverpool FC TV
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/900
+
+.ts
+#EXTINF:-1,UK: ITV Encore
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/899
+
+.ts
+#EXTINF:-1,UK: ITV BE
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/898
+
+.ts
+#EXTINF:-1,UK: History Channel
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/897
+
+.ts
+#EXTINF:-1,UK: Gold UK
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/896
+
+.ts
+#EXTINF:-1,UK: Eurosport 2
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/895
+
+.ts
+#EXTINF:-1,UK: Eurosport 1
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/894
+
+.ts
+#EXTINF:-1,UK: E4 UK
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/893
+
+.ts
+#EXTINF:-1,UK: Drama UK
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/892
+
+.ts
+#EXTINF:-1,UK: DMAX
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/891
+
+.ts
+#EXTINF:-1,UK: Disney XD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/889
+
+.ts
+#EXTINF:-1,UK: Disney Junior
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/888
+
+.ts
+#EXTINF:-1,UK: Disney Channel
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/887
+
+.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/890
+
+.ts
+#EXTINF:-1,UK: Discovery Shed
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/886
+
+.ts
+#EXTINF:-1,UK: Discovery Science
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/885
+
+.ts
+#EXTINF:-1,UK: Discovery Home
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/884
+
+.ts
+#EXTINF:-1,UK: Discovery History
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/883
+
+.ts
+#EXTINF:-1,UK: Discovery Channel
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/882
+
+.ts
+#EXTINF:-1,UK: Dave
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/917
+
+.ts
+#EXTINF:-1,UK: Crime Investigation
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/881
+
+.ts
+#EXTINF:-1,UK: Comendy Central Extra
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/879
+
+.ts
+#EXTINF:-1,UK: Comedy Central
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/878
+
+.ts
+#EXTINF:-1,UK: CNN
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/916
+
+.ts
+#EXTINF:-1,UK: CBS Reality
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/877
+
+.ts
+#EXTINF:-1,UK: CBS Action
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/876
+
+.ts
+#EXTINF:-1,UK: CBeebies
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/875
+
+.ts
+#EXTINF:-1,UK: CBBC
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/874
+
+.ts
+#EXTINF:-1,UK: Cartoon Network HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/873
+
+.ts
+#EXTINF:-1,UK: C4
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/914
+
+.ts
+#EXTINF:-1,UK: C iTV
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/915
+
+.ts
+#EXTINF:-1,UK: Bloomberg
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/913
+
+.ts
+#EXTINF:-1,UK: BBC World News
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/872
+
+.ts
+#EXTINF:-1,UK: BBC Red Button
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/870
+
+.ts
+#EXTINF:-1,UK: 5Star
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/871
+
+.ts
+#EXTINF:-1,UK: Premier Sports
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/735
+
+.ts
+#EXTINF:-1,UK: Channel 5
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/736
+
+.ts
+#EXTINF:-1,UK: Animal Planet
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/737
+
+.ts
+#EXTINF:-1,UK: Sky UK One HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/698
+
+.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/625
+
+.ts
+#EXTINF:-1,UK: Sky UK News
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/327
+
+.ts
+#EXTINF:-1,UK: Sky Uk MUTV
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/448
+
+.ts
+#EXTINF:-1,UK: Sky UK Living
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/622
+
+.ts
+#EXTINF:-1,UK: Sentanta Sports
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/328
+
+.ts
+#EXTINF:-1,UK: Sky UK Two
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/620
+
+.ts
+#EXTINF:-1,UK: Sky Uk Modern Select HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/259
+
+.ts
+#EXTINF:-1,UK: Sky Uk Modern Greats HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/133
+
+.ts
+#EXTINF:-1,UK: Sky UK Arts 2
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/907
+
+.ts
+#EXTINF:-1,UK: Sky UK Arts 1
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/906
+
+.ts
+#EXTINF:-1,UK: True Movies 2
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/909
+
+.ts
+#EXTINF:-1,UK: True Movies
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/908
+
+.ts
+#EXTINF:-1,UK: True Drama
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/911
+
+.ts
+#EXTINF:-1,UK: SyFy
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/910
+
+.ts
+#EXTINF:-1,UK: Sky Uk Disney HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/699
+
+.ts
+#EXTINF:-1,UK: Sky Uk Drama HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/326
+
+.ts
+#EXTINF:-1,UK: Sky UK Atlantic HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/621
+
+.ts
+#EXTINF:-1,UK: Sky UK Movies Showcase
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/919
+
+.ts
+#EXTINF:-1,UK: Sky Uk Movies Scifi & Horror
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/920
+
+.ts
+#EXTINF:-1,UK: Sky Uk Thriller HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/175
+
+.ts
+#EXTINF:-1,UK: Sky Uk Scifi HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/134
+
+.ts
+#EXTINF:-1,UK: Sky Uk HD1
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/130
+
+.ts
+#EXTINF:-1,UK: Sky Uk Premiere HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/131
+
+.ts
+#EXTINF:-1,UK: Sky Uk Family HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/132
+
+.ts
+#EXTINF:-1,UK: Sky Uk Comedy HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/176
+
+.ts
+#EXTINF:-1,UK: Sky Uk Action HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/177
+
+.ts
+#EXTINF:-1,UK: RTE ONE
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/136
+
+.ts
+#EXTINF:-1,UK: RTE 2
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/135
+
+.ts
+#EXTINF:-1,UK: ESPN HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/138
+
+.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/139
+
+.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/140
+
+.ts
+#EXTINF:-1,UK: BBC 3 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/141
+
+.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/142
+
+.ts
+#EXTINF:-1,UK: Sky Uk Sport HD 1
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/17.
+
+ts
+#EXTINF:-1,UK: Sky Uk Sport HD 2
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/18.
+
+ts
+#EXTINF:-1,UK: Sky Uk Sport HD 3
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/220
+
+.ts
+#EXTINF:-1,UK: Sky Uk Sport HD 4
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/19.
+
+ts
+#EXTINF:-1,UK: Sky Uk Sport HD 5
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/129
+
+.ts
+#EXTINF:-1,UK: Sky Uk Sport F1 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/221
+
+.ts
+#EXTINF:-1,UK: Sky Uk Sports News HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/174
+
+.ts
+#EXTINF:-1,UK: Sky Uk BT Sport 1 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/15.
+
+ts
+#EXTINF:-1,UK: Sky Uk BT Sport 2 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/16.
+
+ts
+#EXTINF:-1,UK: BT Sport Europe HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/102
+
+3.ts
+#EXTINF:-1,UK: CTH Stadium 1 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/106
+
+4.ts
+#EXTINF:-1,UK: CTH Stadium 2 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/106
+
+5.ts
+#EXTINF:-1,UK: CTH Stadium 3 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/106
+
+6.ts
+#EXTINF:-1,UK: CTH Stadium 4 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/106
+
+7.ts
+#EXTINF:-1,UK: CTH Stadium 5 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/109
+
+6.ts
+#EXTINF:-1,UK: ITV 1 HD
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/137
+
+.ts
+#EXTINF:-1,UK: ITV 2
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/242
+
+.ts
+#EXTINF:-1,UK: ITV 3
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/243
+
+.ts
+#EXTINF:-1,UK: ITV 4
+http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/244
+
+.ts
