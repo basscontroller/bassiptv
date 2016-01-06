@@ -1,868 +1,133 @@
 #EXTM3U
-<<<<<<< HEAD
-#EXTINF:-1,---- SKY UK ----
-http://selling-team.net:8000/live/rthgfd/gergh/1261.ts
-#EXTINF:-1,UK: Wine TV
-http://selling-team.net:8000/live/rthgfd/gergh/10381.ts
-#EXTINF:-1,UK: Russia Today
-http://selling-team.net:8000/live/rthgfd/gergh/10375.ts
-#EXTINF:-1,UK: Food +1
-http://selling-team.net:8000/live/rthgfd/gergh/10380.ts
-#EXTINF:-1,UK: Food
-http://selling-team.net:8000/live/rthgfd/gergh/10379.ts
-#EXTINF:-1,UK: Euronews UK
-http://selling-team.net:8000/live/rthgfd/gergh/10376.ts
-#EXTINF:-1,UK: Bloomberg
-http://selling-team.net:8000/live/rthgfd/gergh/10374.ts
-#EXTINF:-1,UK: VOA English
-http://selling-team.net:8000/live/rthgfd/gergh/10372.ts
-#EXTINF:-1,UK: Travel Channel
-http://selling-team.net:8000/live/rthgfd/gergh/10366.ts
-#EXTINF:-1,UK: ITVBE
-http://selling-team.net:8000/live/rthgfd/gergh/10364.ts
-#EXTINF:-1,UK: ITV4 +1
-http://selling-team.net:8000/live/rthgfd/gergh/10363.ts
-#EXTINF:-1,UK: ITV3 +1
-http://selling-team.net:8000/live/rthgfd/gergh/10362.ts
-#EXTINF:-1,UK: ITV +2
-http://selling-team.net:8000/live/rthgfd/gergh/10361.ts
-#EXTINF:-1,UK: ITV +1
-http://selling-team.net:8000/live/rthgfd/gergh/10360.ts
-#EXTINF:-1,UK: France 24
-http://selling-team.net:8000/live/rthgfd/gergh/10371.ts
-#EXTINF:-1,UK: Filmon Live TV
-http://selling-team.net:8000/live/rthgfd/gergh/10365.ts
-#EXTINF:-1,UK: Fashion TV
-http://selling-team.net:8000/live/rthgfd/gergh/10370.ts
-#EXTINF:-1,UK: BBC Three
-http://selling-team.net:8000/live/rthgfd/gergh/10369.ts
-#EXTINF:-1,UK: Aljazeera
-http://selling-team.net:8000/live/rthgfd/gergh/10373.ts
-#EXTINF:-1,UK: BBC North Irland
-http://selling-team.net:8000/live/rthgfd/gergh/10347.ts
-#EXTINF:-1,UK: BBC One Wales
-http://selling-team.net:8000/live/rthgfd/gergh/10346.ts
-#EXTINF:-1,UK: BBC Parlament
-http://selling-team.net:8000/live/rthgfd/gergh/10348.ts
-#EXTINF:-1,UK: CBS Drama
-http://selling-team.net:8000/live/rthgfd/gergh/10357.ts
-#EXTINF:-1,UK: CBS Reality
-http://selling-team.net:8000/live/rthgfd/gergh/10358.ts
-#EXTINF:-1,UK: CBS Reality +1
-http://selling-team.net:8000/live/rthgfd/gergh/10359.ts
-#EXTINF:-1,UK: Five Plus
-http://selling-team.net:8000/live/rthgfd/gergh/10351.ts
-#EXTINF:-1,UK: Five Usa
-http://selling-team.net:8000/live/rthgfd/gergh/10352.ts
-#EXTINF:-1,UK: Four
-http://selling-team.net:8000/live/rthgfd/gergh/10350.ts
-#EXTINF:-1,UK: Pick TV
-http://selling-team.net:8000/live/rthgfd/gergh/10354.ts
-#EXTINF:-1,UK: Quest
-http://selling-team.net:8000/live/rthgfd/gergh/10356.ts
-#EXTINF:-1,UK: Yesterday
-http://selling-team.net:8000/live/rthgfd/gergh/10355.ts
-#EXTINF:-1,UK: Animal Planet
-http://selling-team.net:8000/live/rthgfd/gergh/4801.ts
-#EXTINF:-1,UK: ASTRO SuperSport 1
-http://selling-team.net:8000/live/rthgfd/gergh/8882.ts
-#EXTINF:-1,UK: ASTRO SuperSport 2
-http://selling-team.net:8000/live/rthgfd/gergh/8881.ts
-#EXTINF:-1,UK: BBC 1
-http://selling-team.net:8000/live/rthgfd/gergh/4780.ts
-#EXTINF:-1,UK: BBC 2
-http://selling-team.net:8000/live/rthgfd/gergh/4781.ts
-#EXTINF:-1,UK: BBC 3
-http://selling-team.net:8000/live/rthgfd/gergh/4782.ts
-#EXTINF:-1,UK: BBC 4
-http://selling-team.net:8000/live/rthgfd/gergh/4783.ts
-#EXTINF:-1,UK: BBC Entertainment
-http://selling-team.net:8000/live/rthgfd/gergh/8429.ts
-#EXTINF:-1,UK: BBC Four
-http://selling-team.net:8000/live/rthgfd/gergh/8430.ts
-#EXTINF:-1,UK: BBC News
-http://selling-team.net:8000/live/rthgfd/gergh/8431.ts
-#EXTINF:-1,UK: Box Nation
-http://selling-team.net:8000/live/rthgfd/gergh/4818.ts
-#EXTINF:-1,UK: Box Office PPV
-http://selling-team.net:8000/live/rthgfd/gergh/8897.ts
-#EXTINF:-1,UK: BT Sport 1
-http://selling-team.net:8000/live/rthgfd/gergh/4819.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://selling-team.net:8000/live/rthgfd/gergh/8896.ts
-#EXTINF:-1,UK: BT Sport 2
-http://selling-team.net:8000/live/rthgfd/gergh/4820.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://selling-team.net:8000/live/rthgfd/gergh/8895.ts
-#EXTINF:-1,UK: BT Sport Europe
-http://selling-team.net:8000/live/rthgfd/gergh/8894.ts
-#EXTINF:-1,UK: BT Sport Extra
-http://selling-team.net:8000/live/rthgfd/gergh/4821.ts
-#EXTINF:-1,UK: Channel 4
-http://selling-team.net:8000/live/rthgfd/gergh/4786.ts
-#EXTINF:-1,UK: Channel 5
-http://selling-team.net:8000/live/rthgfd/gergh/4787.ts
-#EXTINF:-1,UK: Chelsea TV
-http://selling-team.net:8000/live/rthgfd/gergh/4822.ts
-#EXTINF:-1,UK: Crime & Investigiation
-http://selling-team.net:8000/live/rthgfd/gergh/8925.ts
-#EXTINF:-1,UK: CTH Stadium 1 HD
-http://selling-team.net:8000/live/rthgfd/gergh/8873.ts
-#EXTINF:-1,UK: CTH Stadium 2 HD
-http://selling-team.net:8000/live/rthgfd/gergh/8872.ts
-#EXTINF:-1,UK: CTH Stadium 3 HD
-http://selling-team.net:8000/live/rthgfd/gergh/8871.ts
-#EXTINF:-1,UK: CTH Stadium 4 HD
-http://selling-team.net:8000/live/rthgfd/gergh/8870.ts
-#EXTINF:-1,UK: CTH Stadium 5 HD
-http://selling-team.net:8000/live/rthgfd/gergh/8869.ts
-#EXTINF:-1,UK: Dave
-http://selling-team.net:8000/live/rthgfd/gergh/4788.ts
-#EXTINF:-1,UK: Discovery
-http://selling-team.net:8000/live/rthgfd/gergh/8924.ts
-#EXTINF:-1,UK: Discovery Channel
-http://selling-team.net:8000/live/rthgfd/gergh/4802.ts
-#EXTINF:-1,UK: Discovery History
-http://selling-team.net:8000/live/rthgfd/gergh/4804.ts
-#EXTINF:-1,UK: Discovery Home & Health
-http://selling-team.net:8000/live/rthgfd/gergh/8921.ts
-#EXTINF:-1,UK: Discovery Investigation
-http://selling-team.net:8000/live/rthgfd/gergh/8920.ts
-#EXTINF:-1,UK: Discovery Science
-http://selling-team.net:8000/live/rthgfd/gergh/4805.ts
-#EXTINF:-1,UK: Discovery Shed
-http://selling-team.net:8000/live/rthgfd/gergh/8918.ts
-#EXTINF:-1,UK: Racing
-http://selling-team.net:8000/live/rthgfd/gergh/4803.ts
-#EXTINF:-1,UK: Disney Channel
-http://selling-team.net:8000/live/rthgfd/gergh/8917.ts
-#EXTINF:-1,UK: Disney Junior
-http://selling-team.net:8000/live/rthgfd/gergh/4810.ts
-#EXTINF:-1,UK: Disney XD
-http://selling-team.net:8000/live/rthgfd/gergh/8914.ts
-#EXTINF:-1,UK: Dmax
-http://selling-team.net:8000/live/rthgfd/gergh/4789.ts
-#EXTINF:-1,UK: E4
-http://selling-team.net:8000/live/rthgfd/gergh/4790.ts
-#EXTINF:-1,UK: ESPN
-http://selling-team.net:8000/live/rthgfd/gergh/4824.ts
-#EXTINF:-1,UK: Eurosport
-http://selling-team.net:8000/live/rthgfd/gergh/4825.ts
-#EXTINF:-1,UK: EuroSports 1
-http://selling-team.net:8000/live/rthgfd/gergh/8889.ts
-#EXTINF:-1,UK: EuroSports 2
-http://selling-team.net:8000/live/rthgfd/gergh/8888.ts
-#EXTINF:-1,UK: Five
-http://selling-team.net:8000/live/rthgfd/gergh/4791.ts
-#EXTINF:-1,UK: Good Food
-http://selling-team.net:8000/live/rthgfd/gergh/8887.ts
-#EXTINF:-1,UK: History
-http://selling-team.net:8000/live/rthgfd/gergh/4806.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://selling-team.net:8000/live/rthgfd/gergh/4807.ts
-#EXTINF:-1,UK: iTV 1
-http://selling-team.net:8000/live/rthgfd/gergh/4792.ts
-#EXTINF:-1,UK: iTV 2
-http://selling-team.net:8000/live/rthgfd/gergh/4793.ts
-#EXTINF:-1,UK: iTV 3
-http://selling-team.net:8000/live/rthgfd/gergh/4794.ts
-#EXTINF:-1,UK: ITV 4
-http://selling-team.net:8000/live/rthgfd/gergh/4795.ts
-#EXTINF:-1,UK: Liverpool FC
-http://selling-team.net:8000/live/rthgfd/gergh/8886.ts
-#EXTINF:-1,UK: Liverpool TV
-http://selling-team.net:8000/live/rthgfd/gergh/4823.ts
-#EXTINF:-1,UK: Motors TV
-http://selling-team.net:8000/live/rthgfd/gergh/4827.ts
-#EXTINF:-1,UK: MTV Classic
-http://selling-team.net:8000/live/rthgfd/gergh/8909.ts
-#EXTINF:-1,UK: MTV Dance
-http://selling-team.net:8000/live/rthgfd/gergh/4813.ts
-#EXTINF:-1,UK: MTV Hits
-http://selling-team.net:8000/live/rthgfd/gergh/4814.ts
-#EXTINF:-1,UK: MTV Music
-http://selling-team.net:8000/live/rthgfd/gergh/4815.ts
-#EXTINF:-1,UK: MTV Rocks
-http://selling-team.net:8000/live/rthgfd/gergh/4816.ts
-#EXTINF:-1,UK: MUTV
-http://selling-team.net:8000/live/rthgfd/gergh/8885.ts
-#EXTINF:-1,UK: National Geographic Channel
-http://selling-team.net:8000/live/rthgfd/gergh/4808.ts
-#EXTINF:-1,UK: National Geographic Wild
-http://selling-team.net:8000/live/rthgfd/gergh/4809.ts
-#EXTINF:-1,UK: Nick
-http://selling-team.net:8000/live/rthgfd/gergh/8908.ts
-#EXTINF:-1,UK: Nickelodeon
-http://selling-team.net:8000/live/rthgfd/gergh/8902.ts
-#EXTINF:-1,UK: NickToo
-http://selling-team.net:8000/live/rthgfd/gergh/8904.ts
-#EXTINF:-1,UK: Premier Sports
-http://selling-team.net:8000/live/rthgfd/gergh/4828.ts
-#EXTINF:-1,UK: RTE One
-http://selling-team.net:8000/live/rthgfd/gergh/4797.ts
-#EXTINF:-1,UK: Setanta Sport
-http://selling-team.net:8000/live/rthgfd/gergh/8884.ts
-#EXTINF:-1,UK: Setanta Sports
-http://selling-team.net:8000/live/rthgfd/gergh/4829.ts
-#EXTINF:-1,UK: Setanta Sports Ireland
-http://selling-team.net:8000/live/rthgfd/gergh/8883.ts
-#EXTINF:-1,UK: Sky Art
-http://selling-team.net:8000/live/rthgfd/gergh/4841.ts
-#EXTINF:-1,UK: Sky Atlantic
-http://selling-team.net:8000/live/rthgfd/gergh/4842.ts
-#EXTINF:-1,UK: Sky Living
-http://selling-team.net:8000/live/rthgfd/gergh/4844.ts
-#EXTINF:-1,UK: Sky Movies Action and Adventure
-http://selling-team.net:8000/live/rthgfd/gergh/4847.ts
-#EXTINF:-1,UK: Sky Movies Comedy
-http://selling-team.net:8000/live/rthgfd/gergh/4848.ts
-#EXTINF:-1,UK: Sky Movies Crime and Thriller
-http://selling-team.net:8000/live/rthgfd/gergh/4849.ts
-#EXTINF:-1,UK: Sky Movies Disney
-http://selling-team.net:8000/live/rthgfd/gergh/4850.ts
-#EXTINF:-1,UK: Sky Movies Drama & Romance
-http://selling-team.net:8000/live/rthgfd/gergh/4845.ts
-#EXTINF:-1,UK: Sky Movies Family
-http://selling-team.net:8000/live/rthgfd/gergh/4851.ts
-#EXTINF:-1,UK: Sky Movies Premiere
-http://selling-team.net:8000/live/rthgfd/gergh/4853.ts
-#EXTINF:-1,UK: Sky Movies Sci-Fi and Horror
-http://selling-team.net:8000/live/rthgfd/gergh/4854.ts
-#EXTINF:-1,UK: Sky News
-http://selling-team.net:8000/live/rthgfd/gergh/4785.ts
-#EXTINF:-1,UK: Sky One
-http://selling-team.net:8000/live/rthgfd/gergh/4846.ts
-#EXTINF:-1,UK: Sky Sport News
-http://selling-team.net:8000/live/rthgfd/gergh/4836.ts
-#EXTINF:-1,UK: Sky Sports 1
-http://selling-team.net:8000/live/rthgfd/gergh/4830.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://selling-team.net:8000/live/rthgfd/gergh/7931.ts
-#EXTINF:-1,UK: Sky Sports 2
-http://selling-team.net:8000/live/rthgfd/gergh/4831.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://selling-team.net:8000/live/rthgfd/gergh/7932.ts
-#EXTINF:-1,UK: Sky Sports 3
-http://selling-team.net:8000/live/rthgfd/gergh/4832.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://selling-team.net:8000/live/rthgfd/gergh/7933.ts
-#EXTINF:-1,UK: Sky Sports 4
-http://selling-team.net:8000/live/rthgfd/gergh/4833.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://selling-team.net:8000/live/rthgfd/gergh/7934.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://selling-team.net:8000/live/rthgfd/gergh/4834.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://selling-team.net:8000/live/rthgfd/gergh/7935.ts
-#EXTINF:-1,UK: Sky Sports F1
-http://selling-team.net:8000/live/rthgfd/gergh/4835.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://selling-team.net:8000/live/rthgfd/gergh/8892.ts
-#EXTINF:-1,UK: Sky Sports News
-http://selling-team.net:8000/live/rthgfd/gergh/8891.ts
-#EXTINF:-1,UK: Sky Sports News HD
-http://selling-team.net:8000/live/rthgfd/gergh/8890.ts
-#EXTINF:-1,UK: TG 4
-http://selling-team.net:8000/live/rthgfd/gergh/4800.ts
-#EXTINF:-1,UK: VH1
-http://selling-team.net:8000/live/rthgfd/gergh/8899.ts
-#EXTINF:-1,UK: VH1 Classic
-http://selling-team.net:8000/live/rthgfd/gergh/4817.ts
-#EXTINF:-1,UK: ViVa UK
-http://selling-team.net:8000/live/rthgfd/gergh/8898.ts
-#EXTINF:-1,---- USA CHANNEL ----
-http://selling-team.net:8000/live/rthgfd/gergh/1262.ts
-#EXTINF:-1,USA: ESPN 1 / EPL 1
-http://selling-team.net:8000/live/rthgfd/gergh/7586.ts
-#EXTINF:-1,USA: ESPN 2 / EPL 2
-http://selling-team.net:8000/live/rthgfd/gergh/7587.ts
-#EXTINF:-1,USA: Fox Sport 1 / EPL 3
-http://selling-team.net:8000/live/rthgfd/gergh/7588.ts
-#EXTINF:-1,USA: FOX SPORT 2 / EPL 4
-http://selling-team.net:8000/live/rthgfd/gergh/7589.ts
-#EXTINF:-1,USA: NBA TV / EPL 5
-http://selling-team.net:8000/live/rthgfd/gergh/7590.ts
-#EXTINF:-1,USA: NBC Sport HD
-http://selling-team.net:8000/live/rthgfd/gergh/7591.ts
-#EXTINF:-1,USA : FOX HD
-http://selling-team.net:8000/live/rthgfd/gergh/8055.ts
-#EXTINF:-1,USA: FOX 5 HD
-http://selling-team.net:8000/live/rthgfd/gergh/9102.ts
-#EXTINF:-1,USA: SPORT US HD
-http://selling-team.net:8000/live/rthgfd/gergh/7550.ts
-#EXTINF:-1,USA: Starze Dge HD
-http://selling-team.net:8000/live/rthgfd/gergh/9092.ts
-#EXTINF:-1,USA: Starz Encore HD
-http://selling-team.net:8000/live/rthgfd/gergh/9093.ts
-#EXTINF:-1,USA: Starz East HD
-http://selling-team.net:8000/live/rthgfd/gergh/9094.ts
-#EXTINF:-1,USA: Starz Cinema HD
-http://selling-team.net:8000/live/rthgfd/gergh/9095.ts
-#EXTINF:-1,USA: CBC HD
-http://selling-team.net:8000/live/rthgfd/gergh/9096.ts
-#EXTINF:-1,USA: History HD
-http://selling-team.net:8000/live/rthgfd/gergh/9097.ts
-#EXTINF:-1,USA: HBO Zone HD
-http://selling-team.net:8000/live/rthgfd/gergh/9098.ts
-#EXTINF:-1,USA: HBO Signature HD
-http://selling-team.net:8000/live/rthgfd/gergh/9099.ts
-#EXTINF:-1,USA: HBO East
-http://selling-team.net:8000/live/rthgfd/gergh/9100.ts
-#EXTINF:-1,USA: HBO Comedy HD
-http://selling-team.net:8000/live/rthgfd/gergh/9101.ts
-#EXTINF:-1,USA: Cinemax Action HD
-http://selling-team.net:8000/live/rthgfd/gergh/9103.ts
-#EXTINF:-1,USA: Cinemax 5 Star HD
-http://selling-team.net:8000/live/rthgfd/gergh/9104.ts
-#EXTINF:-1,USA: WFTV
-http://selling-team.net:8000/live/rthgfd/gergh/7646.ts
-#EXTINF:-1,USA: Weather TV
-http://selling-team.net:8000/live/rthgfd/gergh/7643.ts
-#EXTINF:-1,USA: BLOOMBERG
-http://selling-team.net:8000/live/rthgfd/gergh/7647.ts
-#EXTINF:-1,USA: News Westchester(Stream 1)
-http://selling-team.net:8000/live/rthgfd/gergh/4675.ts
-#EXTINF:-1,USA: News New Jersey(Weather)
-http://selling-team.net:8000/live/rthgfd/gergh/4674.ts
-#EXTINF:-1,USA: News New Jersey(Stream 1)
-http://selling-team.net:8000/live/rthgfd/gergh/4673.ts
-#EXTINF:-1,USA: News Long Island(Weather)
-http://selling-team.net:8000/live/rthgfd/gergh/4672.ts
-#EXTINF:-1,USA: News Hudson Valley(Weather)
-http://selling-team.net:8000/live/rthgfd/gergh/4670.ts
-#EXTINF:-1,USA: News Hudson Valley(Stream 1)
-http://selling-team.net:8000/live/rthgfd/gergh/4669.ts
-#EXTINF:-1,USA: News Connecticut(Weather)
-http://selling-team.net:8000/live/rthgfd/gergh/4668.ts
-#EXTINF:-1,USA: News Connecticut(Stream 1)
-http://selling-team.net:8000/live/rthgfd/gergh/4667.ts
-#EXTINF:-1,USA: News Brooklyn(Stream 1)
-http://selling-team.net:8000/live/rthgfd/gergh/4666.ts
-#EXTINF:-1,USA: News Bronx(Weather)
-http://selling-team.net:8000/live/rthgfd/gergh/4665.ts
-#EXTINF:-1,USA: News Bronx(Stream 1)
-http://selling-team.net:8000/live/rthgfd/gergh/4664.ts
-#EXTINF:-1,USA: News 12 Long Island(Stream 1)
-http://selling-team.net:8000/live/rthgfd/gergh/4663.ts
-#EXTINF:-1,USA : ABC News HD
-http://selling-team.net:8000/live/rthgfd/gergh/8065.ts
-#EXTINF:-1,USA : CBS HD
-http://selling-team.net:8000/live/rthgfd/gergh/8117.ts
-#EXTINF:-1,USA : NBC HD
-http://selling-team.net:8000/live/rthgfd/gergh/8078.ts
-#EXTINF:-1,USA : CNN HD
-http://selling-team.net:8000/live/rthgfd/gergh/8106.ts
-#EXTINF:-1,USA : Fox News
-http://selling-team.net:8000/live/rthgfd/gergh/8074.ts
-#EXTINF:-1,USA : BRAVO HD
-http://selling-team.net:8000/live/rthgfd/gergh/8110.ts
-#EXTINF:-1,USA : SportsNet 1
-http://selling-team.net:8000/live/rthgfd/gergh/8107.ts
-#EXTINF:-1,USA : TNT HD
-http://selling-team.net:8000/live/rthgfd/gergh/8064.ts
-#EXTINF:-1,USA : WWE NETWORK HD
-http://selling-team.net:8000/live/rthgfd/gergh/8094.ts
-#EXTINF:-1,USA: ABC NEWS
-http://selling-team.net:8000/live/rthgfd/gergh/3105.ts
-#EXTINF:-1,USA: NFL Now
-http://selling-team.net:8000/live/rthgfd/gergh/7645.ts
-#EXTINF:-1,USA: TSN 1 USA
-http://selling-team.net:8000/live/rthgfd/gergh/8083.ts
-#EXTINF:-1,USA: TSN 2 USA
-http://selling-team.net:8000/live/rthgfd/gergh/8084.ts
-#EXTINF:-1,USA: TSN 3 USA
-http://selling-team.net:8000/live/rthgfd/gergh/8085.ts
-#EXTINF:-1,USA: TSN 4 USA
-http://selling-team.net:8000/live/rthgfd/gergh/8086.ts
-#EXTINF:-1,USA: TSN 5 USA
-http://selling-team.net:8000/live/rthgfd/gergh/8087.ts
-#EXTINF:-1,USA:VICTORIA SECRETS
-http://selling-team.net:8000/live/rthgfd/gergh/4649.ts
-#EXTINF:-1,USA:NASA TV
-http://selling-team.net:8000/live/rthgfd/gergh/4653.ts
-#EXTINF:-1,USA:LONDON LIVE
-http://selling-team.net:8000/live/rthgfd/gergh/4644.ts
-#EXTINF:-1,USA:ISS Live 2
-http://selling-team.net:8000/live/rthgfd/gergh/4631.ts
-#EXTINF:-1,USA: Vevo1 HD
-http://selling-team.net:8000/live/rthgfd/gergh/4576.ts
-#EXTINF:-1,USA: Vevo2 HD
-http://selling-team.net:8000/live/rthgfd/gergh/4577.ts
-#EXTINF:-1,USA: Vevo3 HD
-http://selling-team.net:8000/live/rthgfd/gergh/4578.ts
-#EXTINF:-1,USA:FASHION HD
-http://selling-team.net:8000/live/rthgfd/gergh/4648.ts
-#EXTINF:-1,USA: Xtreme Impacts
-http://selling-team.net:8000/live/rthgfd/gergh/4583.ts
-#EXTINF:-1,USA: PERU Williax
-http://selling-team.net:8000/live/rthgfd/gergh/4597.ts
-#EXTINF:-1,USA: PERU UCV Satelital
-http://selling-team.net:8000/live/rthgfd/gergh/4596.ts
-#EXTINF:-1,USA: PERU Sol TV
-http://selling-team.net:8000/live/rthgfd/gergh/4595.ts
-#EXTINF:-1,USA: Peru AMERICA TV HD (Perú)
-http://selling-team.net:8000/live/rthgfd/gergh/4590.ts
-#EXTINF:-1,USA: Peru AMERICA TV HD
-http://selling-team.net:8000/live/rthgfd/gergh/4611.ts
-#EXTINF:-1,USA: Florida Channel
-http://selling-team.net:8000/live/rthgfd/gergh/4616.ts
-#EXTINF:-1,USA: Latino Canal 9 Bio Bio HD 720
-http://selling-team.net:8000/live/rthgfd/gergh/4607.ts
-#EXTINF:-1,USA: Kiss Tv Music
-http://selling-team.net:8000/live/rthgfd/gergh/4579.ts
-#EXTINF:-1,USA: Dominicana TeleAntillas 2 HD
-http://selling-team.net:8000/live/rthgfd/gergh/4610.ts
-#EXTINF:-1,USA: CHILE La Red HD 720
-http://selling-team.net:8000/live/rthgfd/gergh/4608.ts
-#EXTINF:-1,USA: Argentina:Telpin Canal 2 HD 720 Pinamar
-http://selling-team.net:8000/live/rthgfd/gergh/4606.ts
-#EXTINF:-1,USA: Argentina:Canal 4 HD 720 Jujuy
-http://selling-team.net:8000/live/rthgfd/gergh/4604.ts
-#EXTINF:-1,USA: Argentina CANAL 26 HD
-http://selling-team.net:8000/live/rthgfd/gergh/4599.ts
-#EXTINF:-1,USA: America TV
-http://selling-team.net:8000/live/rthgfd/gergh/4592.ts
-#EXTINF:-1,USA: GLOBAL MONTREAL
-http://selling-team.net:8000/live/rthgfd/gergh/4119.ts
-#EXTINF:-1,USA:ABC NEWS
-http://selling-team.net:8000/live/rthgfd/gergh/4662.ts
-=======
-#EXTINF:0, SkySport 1
-rtmp://89.248.174.38/live/dskys1
-
-
- 
-#EXTINF:0, SkySport 2
-rtmp://89.248.174.38/live/dskys2
-
-#EXTINF:0, SkySport 3
-rtmp://89.248.174.38/live/dskys3
-
-#EXTINF:0, SkySport 4
-rtmp://89.248.174.38/live/dskys4
-
-#EXTINF:0, SkySport 5
-rtmp://89.248.174.38/live/dskys5
-
-#EXTINF:0, Sky f1
-rtmp://89.248.174.38/live/dskysf1
-
-#EXTINF:0, BT Sport 1
-rtmp://89.248.174.38/live/dbt1
-
-#EXTINF:0, BT Sport 2
-rtmp://89.248.174.38/live/dbt2
-
-#EXTINF:0, SkySport 1
-http://195.154.226.186:1935/liveedge/skysports1lsh/playlist.m3u8
-#EXTINF:0, SkySport2
-http://195.154.226.186:1935/liveedge/skysports2lsh/playlist.m3u8
-#EXTINF:0, SkySport 3
-http://195.154.226.186:1935/liveedge/skysports3lsh/playlist.m3u8
-#EXTINF:0, SkySport 4
-http://195.154.226.186:1935/liveedge/skysports4lsh/playlist.m3u8
-#EXTINF:0, SkySport 5
-http://195.154.226.186:1935/liveedge/skysports5lsh/playlist.m3u8
-#EXTINF:0, SkySport F1
-http://195.154.226.186:1935/liveedge/vskysf1lsh/playlist.m3u8
-#EXTINF:0, BT Sport Europe
-http://195.154.226.186:1935/liveedge/bteulsh/playlist.m3u8
-#EXTINF:0, BT Sport 1
-http://195.154.226.186:1935/liveedge/btsports1lsh/playlist.m3u8
-#EXTINF:0, BT Sport 2
-http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8
-#EXTINF:0,  BT Sport ESPN
-http://195.154.226.186:1935/liveedge/espnuklsh/playlist.m3u8
-#EXTINF:0, Premier sports
-http://195.154.226.186:1935/liveedge/vpremsplsh/playlist.m3u8
-
-
-#EXTINF:-1,UK: Pick TV
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/918
-
-.ts
-#EXTINF:-1,UK: National Geographic Wild
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/905
-
-.ts
-#EXTINF:-1,UK: National Geographic Channel
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/904
-
-.ts
-#EXTINF:-1,UK: Movies 4 Men +1
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/902
-
-.ts
-#EXTINF:-1,UK: Movies 4 Men
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/903
-
-.ts
-#EXTINF:-1,UK: More 4
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/901
-
-.ts
-#EXTINF:-1,UK: Liverpool FC TV
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/900
-
-.ts
-#EXTINF:-1,UK: ITV Encore
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/899
-
-.ts
-#EXTINF:-1,UK: ITV BE
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/898
-
-.ts
-#EXTINF:-1,UK: History Channel
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/897
-
-.ts
-#EXTINF:-1,UK: Gold UK
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/896
-
-.ts
-#EXTINF:-1,UK: Eurosport 2
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/895
-
-.ts
-#EXTINF:-1,UK: Eurosport 1
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/894
-
-.ts
-#EXTINF:-1,UK: E4 UK
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/893
-
-.ts
-#EXTINF:-1,UK: Drama UK
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/892
-
-.ts
-#EXTINF:-1,UK: DMAX
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/891
-
-.ts
-#EXTINF:-1,UK: Disney XD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/889
-
-.ts
-#EXTINF:-1,UK: Disney Junior
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/888
-
-.ts
-#EXTINF:-1,UK: Disney Channel
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/887
-
-.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/890
-
-.ts
-#EXTINF:-1,UK: Discovery Shed
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/886
-
-.ts
-#EXTINF:-1,UK: Discovery Science
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/885
-
-.ts
-#EXTINF:-1,UK: Discovery Home
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/884
-
-.ts
-#EXTINF:-1,UK: Discovery History
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/883
-
-.ts
-#EXTINF:-1,UK: Discovery Channel
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/882
-
-.ts
-#EXTINF:-1,UK: Dave
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/917
-
-.ts
-#EXTINF:-1,UK: Crime Investigation
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/881
-
-.ts
-#EXTINF:-1,UK: Comendy Central Extra
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/879
-
-.ts
-#EXTINF:-1,UK: Comedy Central
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/878
-
-.ts
-#EXTINF:-1,UK: CNN
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/916
-
-.ts
-#EXTINF:-1,UK: CBS Reality
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/877
-
-.ts
-#EXTINF:-1,UK: CBS Action
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/876
-
-.ts
-#EXTINF:-1,UK: CBeebies
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/875
-
-.ts
-#EXTINF:-1,UK: CBBC
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/874
-
-.ts
-#EXTINF:-1,UK: Cartoon Network HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/873
-
-.ts
-#EXTINF:-1,UK: C4
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/914
-
-.ts
-#EXTINF:-1,UK: C iTV
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/915
-
-.ts
-#EXTINF:-1,UK: Bloomberg
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/913
-
-.ts
-#EXTINF:-1,UK: BBC World News
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/872
-
-.ts
-#EXTINF:-1,UK: BBC Red Button
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/870
-
-.ts
-#EXTINF:-1,UK: 5Star
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/871
-
-.ts
-#EXTINF:-1,UK: Premier Sports
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/735
-
-.ts
-#EXTINF:-1,UK: Channel 5
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/736
-
-.ts
-#EXTINF:-1,UK: Animal Planet
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/737
-
-.ts
-#EXTINF:-1,UK: Sky UK One HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/698
-
-.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/625
-
-.ts
-#EXTINF:-1,UK: Sky UK News
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/327
-
-.ts
-#EXTINF:-1,UK: Sky Uk MUTV
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/448
-
-.ts
-#EXTINF:-1,UK: Sky UK Living
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/622
-
-.ts
-#EXTINF:-1,UK: Sentanta Sports
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/328
-
-.ts
-#EXTINF:-1,UK: Sky UK Two
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/620
-
-.ts
-#EXTINF:-1,UK: Sky Uk Modern Select HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/259
-
-.ts
-#EXTINF:-1,UK: Sky Uk Modern Greats HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/133
-
-.ts
-#EXTINF:-1,UK: Sky UK Arts 2
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/907
-
-.ts
-#EXTINF:-1,UK: Sky UK Arts 1
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/906
-
-.ts
-#EXTINF:-1,UK: True Movies 2
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/909
-
-.ts
-#EXTINF:-1,UK: True Movies
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/908
-
-.ts
-#EXTINF:-1,UK: True Drama
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/911
-
-.ts
-#EXTINF:-1,UK: SyFy
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/910
-
-.ts
-#EXTINF:-1,UK: Sky Uk Disney HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/699
-
-.ts
-#EXTINF:-1,UK: Sky Uk Drama HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/326
-
-.ts
-#EXTINF:-1,UK: Sky UK Atlantic HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/621
-
-.ts
-#EXTINF:-1,UK: Sky UK Movies Showcase
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/919
-
-.ts
-#EXTINF:-1,UK: Sky Uk Movies Scifi & Horror
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/920
-
-.ts
-#EXTINF:-1,UK: Sky Uk Thriller HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/175
-
-.ts
-#EXTINF:-1,UK: Sky Uk Scifi HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/134
-
-.ts
-#EXTINF:-1,UK: Sky Uk HD1
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/130
-
-.ts
-#EXTINF:-1,UK: Sky Uk Premiere HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/131
-
-.ts
-#EXTINF:-1,UK: Sky Uk Family HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/132
-
-.ts
-#EXTINF:-1,UK: Sky Uk Comedy HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/176
-
-.ts
-#EXTINF:-1,UK: Sky Uk Action HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/177
-
-.ts
-#EXTINF:-1,UK: RTE ONE
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/136
-
-.ts
-#EXTINF:-1,UK: RTE 2
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/135
-
-.ts
-#EXTINF:-1,UK: ESPN HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/138
-
-.ts
-#EXTINF:-1,UK: BBC 1 HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/139
-
-.ts
-#EXTINF:-1,UK: BBC 2 HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/140
-
-.ts
-#EXTINF:-1,UK: BBC 3 HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/141
-
-.ts
-#EXTINF:-1,UK: BBC 4 HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/142
-
-.ts
-#EXTINF:-1,UK: Sky Uk Sport HD 1
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/17.
-
-ts
-#EXTINF:-1,UK: Sky Uk Sport HD 2
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/18.
-
-ts
-#EXTINF:-1,UK: Sky Uk Sport HD 3
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/220
-
-.ts
-#EXTINF:-1,UK: Sky Uk Sport HD 4
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/19.
-
-ts
-#EXTINF:-1,UK: Sky Uk Sport HD 5
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/129
-
-.ts
-#EXTINF:-1,UK: Sky Uk Sport F1 HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/221
-
-.ts
-#EXTINF:-1,UK: Sky Uk Sports News HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/174
-
-.ts
-#EXTINF:-1,UK: Sky Uk BT Sport 1 HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/15.
-
-ts
-#EXTINF:-1,UK: Sky Uk BT Sport 2 HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/16.
-
-ts
-#EXTINF:-1,UK: BT Sport Europe HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/102
-
-3.ts
-#EXTINF:-1,UK: CTH Stadium 1 HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/106
-
-4.ts
-#EXTINF:-1,UK: CTH Stadium 2 HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/106
-
-5.ts
-#EXTINF:-1,UK: CTH Stadium 3 HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/106
-
-6.ts
-#EXTINF:-1,UK: CTH Stadium 4 HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/106
-
-7.ts
-#EXTINF:-1,UK: CTH Stadium 5 HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/109
-
-6.ts
-#EXTINF:-1,UK: ITV 1 HD
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/137
-
-.ts
-#EXTINF:-1,UK: ITV 2
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/242
-
-.ts
-#EXTINF:-1,UK: ITV 3
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/243
-
-.ts
-#EXTINF:-1,UK: ITV 4
-http://mainstream.dyndns.tv:8000/live/vincenzo/vincenzo/244
-
-.ts
->>>>>>> origin/master
+#EXTINF:-1,UK(English)_TV ///
+http://electro-tunis.biz:8000/live/Bass/Leaks/805.ts
+#EXTINF:-1,SKY-SPORTS1
+http://electro-tunis.biz:8000/live/Bass/Leaks/874.ts
+#EXTINF:-1,SKY-SPORTS2
+http://electro-tunis.biz:8000/live/Bass/Leaks/421.ts
+#EXTINF:-1,SKY-SPORTS3
+http://electro-tunis.biz:8000/live/Bass/Leaks/420.ts
+#EXTINF:-1,SKY-SPORTS4
+http://electro-tunis.biz:8000/live/Bass/Leaks/419.ts
+#EXTINF:-1,SKY-SPORTS5
+http://electro-tunis.biz:8000/live/Bass/Leaks/418.ts
+#EXTINF:-1,UK-Espn
+http://electro-tunis.biz:8000/live/Bass/Leaks/1594.ts
+#EXTINF:-1,UK-Box_Nation
+http://electro-tunis.biz:8000/live/Bass/Leaks/1595.ts
+#EXTINF:-1,UK:Setanta
+http://electro-tunis.biz:8000/live/Bass/Leaks/1504.ts
+#EXTINF:-1,UK-BTsport-europe
+http://electro-tunis.biz:8000/live/Bass/Leaks/1468.ts
+#EXTINF:-1,UK-BT_Sport1
+http://electro-tunis.biz:8000/live/Bass/Leaks/1308.ts
+#EXTINF:-1,UK-BT_Sport2
+http://electro-tunis.biz:8000/live/Bass/Leaks/1309.ts
+#EXTINF:-1,UK-BBC1
+http://electro-tunis.biz:8000/live/Bass/Leaks/1302.ts
+#EXTINF:-1,UK-BBC2
+http://electro-tunis.biz:8000/live/Bass/Leaks/1303.ts
+#EXTINF:-1,SKY-NEWS
+http://electro-tunis.biz:8000/live/Bass/Leaks/417.ts
+#EXTINF:-1,UK-ABC_News
+http://electro-tunis.biz:8000/live/Bass/Leaks/1063.ts
+#EXTINF:-1,UK-CNN LIVE NEWS
+http://electro-tunis.biz:8000/live/Bass/Leaks/1540.ts
+#EXTINF:-1,UK_FRANCE_24(En)
+http://electro-tunis.biz:8000/live/Bass/Leaks/1538.ts
+#EXTINF:-1,UK_EuroNews(En)
+http://electro-tunis.biz:8000/live/Bass/Leaks/1539.ts
+#EXTINF:-1,UK_Al-jazeera(En)
+http://electro-tunis.biz:8000/live/Bass/Leaks/1536.ts
+#EXTINF:-1,UK-Bloomberg
+http://electro-tunis.biz:8000/live/Bass/Leaks/1304.ts
+#EXTINF:-1,Sky_Greats
+http://electro-tunis.biz:8000/live/Bass/Leaks/436.ts
+#EXTINF:-1,UK-Sky-LivingIt
+http://electro-tunis.biz:8000/live/Bass/Leaks/1610.ts
+#EXTINF:-1,UK-FOX-CRIMES
+http://electro-tunis.biz:8000/live/Bass/Leaks/1619.ts
+#EXTINF:-1,Sky_Thriller_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/273.ts
+#EXTINF:-1,Sky_Thriller
+http://electro-tunis.biz:8000/live/Bass/Leaks/213.ts
+#EXTINF:-1,Sky_Prem 1_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/218.ts
+#EXTINF:-1,SKY-MOVIES-PRE
+http://electro-tunis.biz:8000/live/Bass/Leaks/426.ts
+#EXTINF:-1,SKY-MOVIES-Syfy+1
+http://electro-tunis.biz:8000/live/Bass/Leaks/425.ts
+#EXTINF:-1,SKY-MOVIES-FAMILY
+http://electro-tunis.biz:8000/live/Bass/Leaks/427.ts
+#EXTINF:-1,Sky_Atlantic_+1
+http://electro-tunis.biz:8000/live/Bass/Leaks/422.ts
+#EXTINF:-1,Sky_Monsters_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/219.ts
+#EXTINF:-1,Sky_Greats_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/217.ts
+#EXTINF:-1,Sky_Family_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/216.ts
+#EXTINF:-1,Sky_DramaRom_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/215.ts
+#EXTINF:-1,Sky_Disney_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/214.ts
+#EXTINF:-1,Sky_Comedy_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/212.ts
+#EXTINF:-1,Sky_Action_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/211.ts
+#EXTINF:-1,Sky2_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/272.ts
+#EXTINF:-1,Universal-1_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/275.ts
+#EXTINF:-1,UK1-Discover_History
+http://electro-tunis.biz:8000/live/Bass/Leaks/381.ts
+#EXTINF:-1,Universal+1_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/430.ts
+#EXTINF:-1,UK-NAT-GEO-WILD
+http://electro-tunis.biz:8000/live/Bass/Leaks/393.ts
+#EXTINF:-1,UK-Nat-Geo+1
+http://electro-tunis.biz:8000/live/Bass/Leaks/392.ts
+#EXTINF:-1,UK-NAT-GEO
+http://electro-tunis.biz:8000/live/Bass/Leaks/394.ts
+#EXTINF:-1,UK-AtThe-Races
+http://electro-tunis.biz:8000/live/Bass/Leaks/396.ts
+#EXTINF:-1,FOX_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/389.ts
+#EXTINF:-1,horror_channel_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/233.ts
+#EXTINF:-1,CBS_Reality _UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/230.ts
+#EXTINF:-1,CBS_Drama_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/229.ts
+#EXTINF:-1,Disney_XD+1_UK1
+http://electro-tunis.biz:8000/live/Bass/Leaks/384.ts
+#EXTINF:-1,Disney_Junior+1_UK1
+http://electro-tunis.biz:8000/live/Bass/Leaks/378.ts
+#EXTINF:-1,Disney_Channel_UK1
+http://electro-tunis.biz:8000/live/Bass/Leaks/383.ts
+#EXTINF:-1,Disney_Channel+1_UK1
+http://electro-tunis.biz:8000/live/Bass/Leaks/379.ts
+#EXTINF:-1,UK:NICKLEODON
+http://electro-tunis.biz:8000/live/Bass/Leaks/1587.ts
+#EXTINF:-1,UK:Nick JR
+http://electro-tunis.biz:8000/live/Bass/Leaks/1588.ts
+#EXTINF:-1,UK:Carton Network
+http://electro-tunis.biz:8000/live/Bass/Leaks/1589.ts
+#EXTINF:-1,ITV_1_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/249.ts
+#EXTINF:-1,ITV2_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/234.ts
+#EXTINF:-1,UK-ITVBE
+http://electro-tunis.biz:8000/live/Bass/Leaks/358.ts
+#EXTINF:-1,ITV4_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/235.ts
+#EXTINF:-1,ITVBE_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/236.ts
+#EXTINF:-1,H2_UK
+http://electro-tunis.biz:8000/live/Bass/Leaks/248.ts
+#EXTINF:-1,MUSIC-VEVO_CH1
+http://electro-tunis.biz:8000/live/Bass/Leaks/976.ts
+#EXTINF:-1,MUSIC-VEVO_CH2
+http://electro-tunis.biz:8000/live/Bass/Leaks/977.ts
+#EXTINF:-1,MUSIC-VEVO_CH3
+http://electro-tunis.biz:8000/live/Bass/Leaks/978.ts
