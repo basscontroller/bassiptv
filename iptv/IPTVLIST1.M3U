@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red]EMPIRELDN.COM LIVE STREAM 1[/COLOR]
 http://91.121.165.88:8148/stream
-#EXTINF:-1,[COLOR blue]EMPIRELDN.COM LIVE STREAM 2[/COLOR]
+#EXTINF:-1,[COLOR yellow]EMPIRELDN.COM LIVE STREAM 2[/COLOR]
 http://91.121.165.88:8148/stream
 #EXTINF:-1,[COLOR white]STUDIO HOTLINE: 07909788404[/COLOR]
 http://www.empireldn.com/
-#EXTINF:-1,[COLOR yellow]WEBSITE: http://www.empireldn.com/[/COLOR]
+#EXTINF:-1,[COLOR red]WEBSITE: http://www.empireldn.com/[/COLOR]
 http://www.empireldn.com/
-#EXTINF:-1,[COLOR green]TWITTER: @EMPIRE_LDN[/COLOR]
+#EXTINF:-1,[COLOR yellow]TWITTER: @EMPIRE_LDN[/COLOR]
 http://www.empireldn.com/
-#EXTINF:-1,[COLOR pink]FACEBOOK: Empireldn Ldn[/COLOR]
-http://www.empireldn.com/
-tvg-logo="http://www.empireldn.com/communities/5/004/011/842/705//images/4609615578_150x150.png"
+#EXTINF:-1,[COLOR white]FACEBOOK: Empireldn Ldn[/COLOR]
+#EXTINF:-1,[COLOR red]timetable[/COLOR]
+http://www.empireldn.com/timetable/4577618171
