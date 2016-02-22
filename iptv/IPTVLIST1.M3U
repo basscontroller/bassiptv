@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red]THE[/COLOR] [COLOR white]BIG[/COLOR] [COLOR yellow]BAD[/COLOR] [COLOR red]EMPIRE[/COLOR] [COLOR white].COM[/COLOR] [COLOR yellow]24/7[/COLOR]
 http://91.121.165.88:8148/streamEE
-#EXTINF:-1,[COLOR red]  Springy P live on empireldn.com[/COLOR] [COLOR white](LIVE 24/7)[/COLOR] [COLOR yellow] STREAM [/COLOR] 
+#EXTINF:-1,[COLOR red]DJ[/COLOR] [COLOR white]Springy P[/COLOR] [COLOR yellow]live on[/COLOR] empireldn.com[/COLOR] [COLOR red](LIVE 24/7)[/COLOR] [COLOR white] STREAM [/COLOR] 
 http://91.121.165.88:8148/stream
 #EXTINF:-1,[COLOR red]EMPIRELDN.COM[/COLOR] [COLOR white](LIVE 24/7)[/COLOR] [COLOR yellow] BACK UP STREAM [/COLOR]
 http://91.121.165.88:8148/stream
