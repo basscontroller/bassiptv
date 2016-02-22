@@ -1,7 +1,9 @@
 #EXTM3U
+#EXTINF:-1,[COLOR red]THE BIG BAD EMPIRELDN.COM[/COLOR] [COLOR white] LIVE  [/COLOR] [COLOR yellow] 24/7 [/COLOR]
+http://91.121.165.88:8148/stream
 #EXTINF:-1,[COLOR red]EMPIRELDN.COM[/COLOR] [COLOR white](LIVE 24/7)[/COLOR] [COLOR yellow] STREAM [/COLOR]
 http://91.121.165.88:8148/stream
-#EXTINF:-1,[COLOR red]EMPIRELDN.COM[/COLOR] [COLOR white]LIVE[/COLOR] [COLOR yellow] BACK UP STREAM [/COLOR]
+#EXTINF:-1,[COLOR red]EMPIRELDN.COM[/COLOR] [COLOR white](LIVE 24/7)[/COLOR] [COLOR yellow] BACK UP STREAM [/COLOR]
 http://91.121.165.88:8148/stream
 #EXTINF:-1,[COLOR white]STUDIO HOTLINE: 07909788404[/COLOR]
 http://www.empireldn.com/
@@ -17,6 +19,6 @@ http://www.empireldn.com/
 http://www.empireldn.com/
 #EXTINF:-1,[COLOR white] FOLLOW ON SOUNDCLOUD: https://soundcloud.com/empireldn[/COLOR]
 https://soundcloud.com/empireldn/
-#EXTINF:-1,[COLOR white] LISTEN ON THE GO VIA TUNEIN RADIO: EMPIRE LDN: [/COLOR]
+#EXTINF:-1,[COLOR white] LISTEN ON THE GO VIA TUNEIN RADIO: EMPIRE LDN [/COLOR]
 https://soundcloud.com/empireldn/
 
