@@ -1,19 +1,16 @@
 #EXTM3U
 #EXTINF:-1,[COLOR red]EMPIRELDN.COM LIVE STREAM 1[/COLOR]
 http://91.121.165.88:8148/stream
-tvg-logo="http://www.empireldn.com/communities/5/004/011/842/705//images/4609615578_150x150.png"
+#EXTINF:-1 tvg-logo=“EMPIRELDN.COM LIVE STREAM 1" tvg-id=" EMPIRELDN.COM LIVE STREAM 1 ", EMPIRELDN.COM LIVE STREAM 1
+http://www.empireldn.com/communities/5/004/011/842/705//images/4609615578_150x150.png
 #EXTINF:-1,[COLOR blue]EMPIRELDN.COM LIVE STREAM 2[/COLOR]
 http://91.121.165.88:8148/stream
-tvg-logo="http://www.empireldn.com/communities/5/004/011/842/705//images/4609615578_150x150.png"
-#EXTINF:-1,[COLOR purple]STUDIO HOTLINE: 07909788404[/COLOR]
+#EXTINF:-1,[COLOR white]STUDIO HOTLINE: 07909788404[/COLOR]
 http://www.empireldn.com/
-tvg-logo="http://www.empireldn.com/communities/5/004/011/842/705//images/4609615578_150x150.png"
 #EXTINF:-1,[COLOR yellow]WEBSITE: http://www.empireldn.com/[/COLOR]
 http://www.empireldn.com/
-tvg-logo="http://www.empireldn.com/communities/5/004/011/842/705//images/4609615578_150x150.png"
 #EXTINF:-1,[COLOR green]TWITTER: @EMPIRE_LDN[/COLOR]
 http://www.empireldn.com/
-tvg-logo="http://www.empireldn.com/communities/5/004/011/842/705//images/4609615578_150x150.png"
 #EXTINF:-1,[COLOR pink]FACEBOOK: Empireldn Ldn[/COLOR]
 http://www.empireldn.com/
 tvg-logo="http://www.empireldn.com/communities/5/004/011/842/705//images/4609615578_150x150.png"
