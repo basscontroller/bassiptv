@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red]EMPIRELDN.COM[/COLOR] [COLOR yelow]LIVE[/COLOR] [COLOR white]STREAM 1[COLOR red]
+#EXTINF:-1,[COLOR yellow]EMPIRELDN.COM[/COLOR] [COLOR white]LIVE[/COLOR] [COLOR red] STREAM 1[/COLOR]
 http://91.121.165.88:8148/stream
 #EXTINF:-1,[COLOR yellow]EMPIRELDN.COM[/COLOR] [COLOR white]LIVE[/COLOR] [COLOR red] STREAM 2[/COLOR]
 http://91.121.165.88:8148/stream
@@ -10,7 +10,6 @@ http://www.empireldn.com/
 #EXTINF:-1,[COLOR yellow]TWITTER: @EMPIRE_LDN[/COLOR]
 http://www.empireldn.com/
 #EXTINF:-1,[COLOR white]FACEBOOK: Empireldn Ldn[/COLOR]
-#EXTINF:-1,[COLOR red]timetable[/COLOR]
-http://www.empireldn.com/timetable/4577618171
-#EXTINF:-1,[COLOR red]image[/COLOR]
-http://www.empireldn.com/communities/5/004/011/842/705//images/4609614007.png
+http://www.empireldn.com/
+#EXTINF:-1,[COLOR red]SOUNDCLOUD[/COLOR]
+https://soundcloud.com/empireldn/15122015-dj-pr-b2b-mr-twist-tuesday-6-8pm
