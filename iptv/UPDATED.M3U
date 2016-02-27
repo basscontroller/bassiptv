@@ -1,7 +1,9 @@
 #EXTM3U
+#EXTINF:-1,UK ONLINE RADIO STATIONS!
+http://91.121.165.88:81948/stream
 #EXTINF:-1,empireldn.com
 http://91.121.165.88:8148/stream
-#EXTINF:-1,Effectfm 
+#EXTINF:-1,effectfmlondon.co.uk
 http://50.7.154.26:8198/
-#EXTINF:-1,Rough tempo
+#EXTINF:-1,roughtempo.com
 http://85.234.141.95:8000/;
