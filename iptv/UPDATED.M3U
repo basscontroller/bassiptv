@@ -1,16 +1,3 @@
 #EXTM3U
-#EXTINF:-1,UK ONLINE RADIO STATIONS!
-http://91.121.165.88:81948/stream
 #EXTINF:-1,empireldn.com
 http://91.121.165.88:8148/stream
-#EXTINF:-1,effectfmlondon.co.uk
-http://50.7.154.26:8198/
-#EXTINF:-1,roughtempo.com
-http://85.234.141.95:8000/;
-#EXTINF:-1,ORIGINUK.NET
-http://149.255.59.162:8030/;
-#EXTINF:-1,cyndicut.com/
-http://78.129.178.98:9033/;stream/1
-#EXTINF:-1,koollondon.com/
-http://uk1-pn.webcast-server.net:8698/
-#EXTINF:-1,MORE COMING SOON
